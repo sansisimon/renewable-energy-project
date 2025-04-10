@@ -50,14 +50,14 @@ Identifying interesting columns in dataset:
 ### `12-solar-energy-consumption.csv`:
 
 ### 1. Data type:
-![alt text](images/im1.png)
+![alt text](images/im5.png)
 
 --> All `dtypes` are correct.
 
 
 ### 2.  Identifying null values:
 
-![alt text](images/im2.png)
+![alt text](images/im6.png)
 
 We have same nulls percentage filtering by "MEASURE" == "`KTOE`" or "MEASURE" == "`PC_PRYENRGSUPPLY`":
 
