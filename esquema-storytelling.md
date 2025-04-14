@@ -34,11 +34,12 @@ Más o menos coincide con los países más representativos de cada continente (y
 
 ## Dashboard 3: Nos vamos a centrar en la eólica y la solar
 Y ahora vamos a centrarnos en:
-- solar: España,  China, Vietnam
-- viento: United Arab Emirates, España,  China
+- `solar`: de los que países que no estaban en el Dashboard 2: España, Vietnam, Italy, Korea.
+OJO aquí con Cook Islands, dato llamativo en % de electricidad solar producida.
+- `viento`: Parecidos a los del Dashboard 2. Turkey y Sweden llaman la atención. PEro sobre todo España es quien llama la atención
 
 
 ## Next steps:
 1. En el “energy consumption word” ver correlation de la energía con:
     - 2020: coronavirus
-    - 2009: crisis 2008 = ver correlaciones
+    - 2009: crisis 2008
