@@ -21,7 +21,7 @@ Este dashboard que presentamos busca contar esa historia, visualizando el estado
 
 ## Dashboard 1:
 
-## Dashboard 1: los que más aportan en el continente en el que están
+## Dashboard 2: los que más aportan en el continente en el que están
 Nos vamos a centrar en la eólica y la solar
 Y ahora vamos a centrarnos en:
 - solar: España,  China, Vietnam
