@@ -19,10 +19,20 @@ Así, la historia se repite: tratamos de resolver problemas creados por nuestras
 Este dashboard que presentamos busca contar esa historia, visualizando el estado actual y la evolución de las energías renovables en el mundo. A través de datos, tendencias y comparativas entre países, podremos entender hacia dónde vamos… y quizá también, cómo seguir avanzando con más conciencia.
 
 
-## Dashboard 1:
+## Dashboard 1: Energy consumption world
+Vemos bajadas de consumo en 2009 y 2020. Posibles causas de la disminución (`a analizar en el futuro`):
+- `2009`:  La disminución podría deberse a una menor actividad económica, como consecuencia de la crisis. Fuentes:
+[Fuente](https://elpais.com/economia/2009/12/30/actualidad/1262161977_850215.html#:~:text=El%20consumo%20de%20energ%C3%ADa%20el%C3%A9ctrica,publicado%20por%20la%20patronal%20Unesa.)
+[Fuente](https://www.miteco.gob.es/content/dam/miteco/es/energia/files-1/balances/Balances/LibrosEnergia/Energia_2009.pdf)
+- `2020`: La disminución podría estar condicionada por las diferentes medidas tomadas para contener la pandemia COVID-19. Fuente:
+[Fuente](https://www.ree.es/sites/default/files/publication/2022/05/downloadable/inf_sis_elec_ree_2020_0.pdf)
 
-## Dashboard 2: los que más aportan en el continente en el que están
-Nos vamos a centrar en la eólica y la solar
+
+## Dashboard 2: mapa energía renovable 10 países
+Más o menos coincide con los países más representativos de cada continente (y aquellos que más producen).
+
+
+## Dashboard 3: Nos vamos a centrar en la eólica y la solar
 Y ahora vamos a centrarnos en:
 - solar: España,  China, Vietnam
 - viento: United Arab Emirates, España,  China
