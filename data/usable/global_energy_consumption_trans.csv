@@ -1,0 +1,341 @@
+Entity,Code,Year,Energy type,Consumption (TWh)
+World,OWID_WRL,1990,"Other renewables (TWh, substituted energy)",361.2137
+World,OWID_WRL,1991,"Other renewables (TWh, substituted energy)",376.84134
+World,OWID_WRL,1992,"Other renewables (TWh, substituted energy)",404.81308
+World,OWID_WRL,1993,"Other renewables (TWh, substituted energy)",418.26727
+World,OWID_WRL,1994,"Other renewables (TWh, substituted energy)",434.6814
+World,OWID_WRL,1995,"Other renewables (TWh, substituted energy)",454.28992
+World,OWID_WRL,1996,"Other renewables (TWh, substituted energy)",466.36444
+World,OWID_WRL,1997,"Other renewables (TWh, substituted energy)",499.9769
+World,OWID_WRL,1998,"Other renewables (TWh, substituted energy)",520.5851
+World,OWID_WRL,1999,"Other renewables (TWh, substituted energy)",546.1845
+World,OWID_WRL,2000,"Other renewables (TWh, substituted energy)",571.59485
+World,OWID_WRL,2001,"Other renewables (TWh, substituted energy)",593.6476
+World,OWID_WRL,2002,"Other renewables (TWh, substituted energy)",639.16516
+World,OWID_WRL,2003,"Other renewables (TWh, substituted energy)",674.7164
+World,OWID_WRL,2004,"Other renewables (TWh, substituted energy)",729.3295
+World,OWID_WRL,2005,"Other renewables (TWh, substituted energy)",790.01874
+World,OWID_WRL,2006,"Other renewables (TWh, substituted energy)",841.3214
+World,OWID_WRL,2007,"Other renewables (TWh, substituted energy)",913.18494
+World,OWID_WRL,2008,"Other renewables (TWh, substituted energy)",976.65955
+World,OWID_WRL,2009,"Other renewables (TWh, substituted energy)",1049.248
+World,OWID_WRL,2010,"Other renewables (TWh, substituted energy)",1175.8253
+World,OWID_WRL,2011,"Other renewables (TWh, substituted energy)",1235.6885
+World,OWID_WRL,2012,"Other renewables (TWh, substituted energy)",1340.7991
+World,OWID_WRL,2013,"Other renewables (TWh, substituted energy)",1447.8152
+World,OWID_WRL,2014,"Other renewables (TWh, substituted energy)",1569.6025
+World,OWID_WRL,2015,"Other renewables (TWh, substituted energy)",1696.5197
+World,OWID_WRL,2016,"Other renewables (TWh, substituted energy)",1720.5377
+World,OWID_WRL,2017,"Other renewables (TWh, substituted energy)",1817.4558
+World,OWID_WRL,2018,"Other renewables (TWh, substituted energy)",1964.74
+World,OWID_WRL,2019,"Other renewables (TWh, substituted energy)",2063.5725
+World,OWID_WRL,2020,"Other renewables (TWh, substituted energy)",2181.6753
+World,OWID_WRL,2021,"Other renewables (TWh, substituted energy)",2351.194
+World,OWID_WRL,2022,"Other renewables (TWh, substituted energy)",2414.3037
+World,OWID_WRL,2023,"Other renewables (TWh, substituted energy)",2427.8613
+World,OWID_WRL,1990,"Biofuels (TWh, substituted energy)",106.56911
+World,OWID_WRL,1991,"Biofuels (TWh, substituted energy)",110.64682
+World,OWID_WRL,1992,"Biofuels (TWh, substituted energy)",108.705635
+World,OWID_WRL,1993,"Biofuels (TWh, substituted energy)",114.34005
+World,OWID_WRL,1994,"Biofuels (TWh, substituted energy)",124.101776
+World,OWID_WRL,1995,"Biofuels (TWh, substituted energy)",131.0704
+World,OWID_WRL,1996,"Biofuels (TWh, substituted energy)",125.784515
+World,OWID_WRL,1997,"Biofuels (TWh, substituted energy)",130.03065
+World,OWID_WRL,1998,"Biofuels (TWh, substituted energy)",133.38396
+World,OWID_WRL,1999,"Biofuels (TWh, substituted energy)",135.24736
+World,OWID_WRL,2000,"Biofuels (TWh, substituted energy)",132.50879
+World,OWID_WRL,2001,"Biofuels (TWh, substituted energy)",131.42497
+World,OWID_WRL,2002,"Biofuels (TWh, substituted energy)",149.31444
+World,OWID_WRL,2003,"Biofuels (TWh, substituted energy)",168.93098
+World,OWID_WRL,2004,"Biofuels (TWh, substituted energy)",201.0801
+World,OWID_WRL,2005,"Biofuels (TWh, substituted energy)",234.50827
+World,OWID_WRL,2006,"Biofuels (TWh, substituted energy)",294.60794
+World,OWID_WRL,2007,"Biofuels (TWh, substituted energy)",391.5707
+World,OWID_WRL,2008,"Biofuels (TWh, substituted energy)",535.71674
+World,OWID_WRL,2009,"Biofuels (TWh, substituted energy)",611.32715
+World,OWID_WRL,2010,"Biofuels (TWh, substituted energy)",692.14124
+World,OWID_WRL,2011,"Biofuels (TWh, substituted energy)",728.7748
+World,OWID_WRL,2012,"Biofuels (TWh, substituted energy)",757.5906
+World,OWID_WRL,2013,"Biofuels (TWh, substituted energy)",820.7763
+World,OWID_WRL,2014,"Biofuels (TWh, substituted energy)",866.74524
+World,OWID_WRL,2015,"Biofuels (TWh, substituted energy)",900.52325
+World,OWID_WRL,2016,"Biofuels (TWh, substituted energy)",941.4909
+World,OWID_WRL,2017,"Biofuels (TWh, substituted energy)",960.00476
+World,OWID_WRL,2018,"Biofuels (TWh, substituted energy)",1039.946
+World,OWID_WRL,2019,"Biofuels (TWh, substituted energy)",1119.6278
+World,OWID_WRL,2020,"Biofuels (TWh, substituted energy)",1070.2726
+World,OWID_WRL,2021,"Biofuels (TWh, substituted energy)",1131.0247
+World,OWID_WRL,2022,"Biofuels (TWh, substituted energy)",1193.2262
+World,OWID_WRL,2023,"Biofuels (TWh, substituted energy)",1317.6246
+World,OWID_WRL,1990,"Solar (TWh, substituted energy)",1.1483465
+World,OWID_WRL,1991,"Solar (TWh, substituted energy)",1.4942344
+World,OWID_WRL,1992,"Solar (TWh, substituted energy)",1.379965
+World,OWID_WRL,1993,"Solar (TWh, substituted energy)",1.6460894
+World,OWID_WRL,1994,"Solar (TWh, substituted energy)",1.7652723
+World,OWID_WRL,1995,"Solar (TWh, substituted energy)",1.8891695
+World,OWID_WRL,1996,"Solar (TWh, substituted energy)",2.0676155
+World,OWID_WRL,1997,"Solar (TWh, substituted energy)",2.2167242
+World,OWID_WRL,1998,"Solar (TWh, substituted energy)",2.4006376
+World,OWID_WRL,1999,"Solar (TWh, substituted energy)",2.6769266
+World,OWID_WRL,2000,"Solar (TWh, substituted energy)",3.1288824
+World,OWID_WRL,2001,"Solar (TWh, substituted energy)",4.1780615
+World,OWID_WRL,2002,"Solar (TWh, substituted energy)",5.2459383
+World,OWID_WRL,2003,"Solar (TWh, substituted energy)",6.5339413
+World,OWID_WRL,2004,"Solar (TWh, substituted energy)",8.554863
+World,OWID_WRL,2005,"Solar (TWh, substituted energy)",11.978459
+World,OWID_WRL,2006,"Solar (TWh, substituted energy)",16.379019
+World,OWID_WRL,2007,"Solar (TWh, substituted energy)",22.07666
+World,OWID_WRL,2008,"Solar (TWh, substituted energy)",35.639404
+World,OWID_WRL,2009,"Solar (TWh, substituted energy)",58.8195
+World,OWID_WRL,2010,"Solar (TWh, substituted energy)",94.092354
+World,OWID_WRL,2011,"Solar (TWh, substituted energy)",181.25386
+World,OWID_WRL,2012,"Solar (TWh, substituted energy)",278.34863
+World,OWID_WRL,2013,"Solar (TWh, substituted energy)",377.7912
+World,OWID_WRL,2014,"Solar (TWh, substituted energy)",534.4909
+World,OWID_WRL,2015,"Solar (TWh, substituted energy)",689.4229
+World,OWID_WRL,2016,"Solar (TWh, substituted energy)",879.1254
+World,OWID_WRL,2017,"Solar (TWh, substituted energy)",1185.098
+World,OWID_WRL,2018,"Solar (TWh, substituted energy)",1520.514
+World,OWID_WRL,2019,"Solar (TWh, substituted energy)",1859.5966
+World,OWID_WRL,2020,"Solar (TWh, substituted energy)",2245.2683
+World,OWID_WRL,2021,"Solar (TWh, substituted energy)",2751.7534
+World,OWID_WRL,2022,"Solar (TWh, substituted energy)",3446.4075
+World,OWID_WRL,2023,"Solar (TWh, substituted energy)",4264.261
+World,OWID_WRL,1990,"Wind (TWh, substituted energy)",10.741176
+World,OWID_WRL,1991,"Wind (TWh, substituted energy)",12.082573
+World,OWID_WRL,1992,"Wind (TWh, substituted energy)",13.994874
+World,OWID_WRL,1993,"Wind (TWh, substituted energy)",16.867165
+World,OWID_WRL,1994,"Wind (TWh, substituted energy)",21.088448
+World,OWID_WRL,1995,"Wind (TWh, substituted energy)",24.46058
+World,OWID_WRL,1996,"Wind (TWh, substituted energy)",27.250431
+World,OWID_WRL,1997,"Wind (TWh, substituted energy)",35.567307
+World,OWID_WRL,1998,"Wind (TWh, substituted energy)",47.10265
+World,OWID_WRL,1999,"Wind (TWh, substituted energy)",62.767708
+World,OWID_WRL,2000,"Wind (TWh, substituted energy)",92.87769
+World,OWID_WRL,2001,"Wind (TWh, substituted energy)",112.75232
+World,OWID_WRL,2002,"Wind (TWh, substituted energy)",152.89377
+World,OWID_WRL,2003,"Wind (TWh, substituted energy)",183.53323
+World,OWID_WRL,2004,"Wind (TWh, substituted energy)",246.72241
+World,OWID_WRL,2005,"Wind (TWh, substituted energy)",299.59113
+World,OWID_WRL,2006,"Wind (TWh, substituted energy)",379.86957
+World,OWID_WRL,2007,"Wind (TWh, substituted energy)",484.9491
+World,OWID_WRL,2008,"Wind (TWh, substituted energy)",622.1818
+World,OWID_WRL,2009,"Wind (TWh, substituted energy)",773.0152
+World,OWID_WRL,2010,"Wind (TWh, substituted energy)",961.4859
+World,OWID_WRL,2011,"Wind (TWh, substituted energy)",1215.6805
+World,OWID_WRL,2012,"Wind (TWh, substituted energy)",1454.6155
+World,OWID_WRL,2013,"Wind (TWh, substituted energy)",1732.0547
+World,OWID_WRL,2014,"Wind (TWh, substituted energy)",1912.3323
+World,OWID_WRL,2015,"Wind (TWh, substituted energy)",2238.7305
+World,OWID_WRL,2016,"Wind (TWh, substituted energy)",2575.6736
+World,OWID_WRL,2017,"Wind (TWh, substituted energy)",3038.9753
+World,OWID_WRL,2018,"Wind (TWh, substituted energy)",3361.3286
+World,OWID_WRL,2019,"Wind (TWh, substituted energy)",3746.7087
+World,OWID_WRL,2020,"Wind (TWh, substituted energy)",4188.111
+World,OWID_WRL,2021,"Wind (TWh, substituted energy)",4865.935
+World,OWID_WRL,2022,"Wind (TWh, substituted energy)",5495.7437
+World,OWID_WRL,2023,"Wind (TWh, substituted energy)",6040.359
+World,OWID_WRL,1990,"Hydropower (TWh, substituted energy)",6383.0127
+World,OWID_WRL,1991,"Hydropower (TWh, substituted energy)",6530.634
+World,OWID_WRL,1992,"Hydropower (TWh, substituted energy)",6529.961
+World,OWID_WRL,1993,"Hydropower (TWh, substituted energy)",6923.2563
+World,OWID_WRL,1994,"Hydropower (TWh, substituted energy)",6966.385
+World,OWID_WRL,1995,"Hydropower (TWh, substituted energy)",7343.3516
+World,OWID_WRL,1996,"Hydropower (TWh, substituted energy)",7442.1943
+World,OWID_WRL,1997,"Hydropower (TWh, substituted energy)",7573.902
+World,OWID_WRL,1998,"Hydropower (TWh, substituted energy)",7631.793
+World,OWID_WRL,1999,"Hydropower (TWh, substituted energy)",7689.5576
+World,OWID_WRL,2000,"Hydropower (TWh, substituted energy)",7826.087
+World,OWID_WRL,2001,"Hydropower (TWh, substituted energy)",7575.298
+World,OWID_WRL,2002,"Hydropower (TWh, substituted energy)",7665.178
+World,OWID_WRL,2003,"Hydropower (TWh, substituted energy)",7606.731
+World,OWID_WRL,2004,"Hydropower (TWh, substituted energy)",8116.2583
+World,OWID_WRL,2005,"Hydropower (TWh, substituted energy)",8336.13
+World,OWID_WRL,2006,"Hydropower (TWh, substituted energy)",8599.477
+World,OWID_WRL,2007,"Hydropower (TWh, substituted energy)",8687.611
+World,OWID_WRL,2008,"Hydropower (TWh, substituted energy)",9137.198
+World,OWID_WRL,2009,"Hydropower (TWh, substituted energy)",9066.074
+World,OWID_WRL,2010,"Hydropower (TWh, substituted energy)",9520.543
+World,OWID_WRL,2011,"Hydropower (TWh, substituted energy)",9634.818
+World,OWID_WRL,2012,"Hydropower (TWh, substituted energy)",9984.604
+World,OWID_WRL,2013,"Hydropower (TWh, substituted energy)",10323.586
+World,OWID_WRL,2014,"Hydropower (TWh, substituted energy)",10535.131
+World,OWID_WRL,2015,"Hydropower (TWh, substituted energy)",10445.364
+World,OWID_WRL,2016,"Hydropower (TWh, substituted energy)",10749.688
+World,OWID_WRL,2017,"Hydropower (TWh, substituted energy)",10826.592
+World,OWID_WRL,2018,"Hydropower (TWh, substituted energy)",11080.882
+World,OWID_WRL,2019,"Hydropower (TWh, substituted energy)",11184.757
+World,OWID_WRL,2020,"Hydropower (TWh, substituted energy)",11449.073
+World,OWID_WRL,2021,"Hydropower (TWh, substituted energy)",11222.464
+World,OWID_WRL,2022,"Hydropower (TWh, substituted energy)",11271.806
+World,OWID_WRL,2023,"Hydropower (TWh, substituted energy)",11014.117
+World,OWID_WRL,1990,"Nuclear (TWh, substituted energy)",5676.7207
+World,OWID_WRL,1991,"Nuclear (TWh, substituted energy)",5948.311
+World,OWID_WRL,1992,"Nuclear (TWh, substituted energy)",5993.4634
+World,OWID_WRL,1993,"Nuclear (TWh, substituted energy)",6199.8696
+World,OWID_WRL,1994,"Nuclear (TWh, substituted energy)",6316.248
+World,OWID_WRL,1995,"Nuclear (TWh, substituted energy)",6590.213
+World,OWID_WRL,1996,"Nuclear (TWh, substituted energy)",6828.8057
+World,OWID_WRL,1997,"Nuclear (TWh, substituted energy)",6781.843
+World,OWID_WRL,1998,"Nuclear (TWh, substituted energy)",6898.552
+World,OWID_WRL,1999,"Nuclear (TWh, substituted energy)",7161.0522
+World,OWID_WRL,2000,"Nuclear (TWh, substituted energy)",7322.6826
+World,OWID_WRL,2001,"Nuclear (TWh, substituted energy)",7480.557
+World,OWID_WRL,2002,"Nuclear (TWh, substituted energy)",7551.0767
+World,OWID_WRL,2003,"Nuclear (TWh, substituted energy)",7350.6562
+World,OWID_WRL,2004,"Nuclear (TWh, substituted energy)",7635.7695
+World,OWID_WRL,2005,"Nuclear (TWh, substituted energy)",7607.3535
+World,OWID_WRL,2006,"Nuclear (TWh, substituted energy)",7653.7217
+World,OWID_WRL,2007,"Nuclear (TWh, substituted energy)",7450.836
+World,OWID_WRL,2008,"Nuclear (TWh, substituted energy)",7381.6016
+World,OWID_WRL,2009,"Nuclear (TWh, substituted energy)",7232.23
+World,OWID_WRL,2010,"Nuclear (TWh, substituted energy)",7373.091
+World,OWID_WRL,2011,"Nuclear (TWh, substituted energy)",7021.4863
+World,OWID_WRL,2012,"Nuclear (TWh, substituted energy)",6500.3687
+World,OWID_WRL,2013,"Nuclear (TWh, substituted energy)",6512.8066
+World,OWID_WRL,2014,"Nuclear (TWh, substituted energy)",6606.008
+World,OWID_WRL,2015,"Nuclear (TWh, substituted energy)",6655.106
+World,OWID_WRL,2016,"Nuclear (TWh, substituted energy)",6714.155
+World,OWID_WRL,2017,"Nuclear (TWh, substituted energy)",6734.279
+World,OWID_WRL,2018,"Nuclear (TWh, substituted energy)",6855.408
+World,OWID_WRL,2019,"Nuclear (TWh, substituted energy)",7071.7817
+World,OWID_WRL,2020,"Nuclear (TWh, substituted energy)",6776.8657
+World,OWID_WRL,2021,"Nuclear (TWh, substituted energy)",7037.07
+World,OWID_WRL,2022,"Nuclear (TWh, substituted energy)",6703.874
+World,OWID_WRL,2023,"Nuclear (TWh, substituted energy)",6824.1772
+World,OWID_WRL,1990,"Gas (TWh, substituted energy)",19481.15
+World,OWID_WRL,1991,"Gas (TWh, substituted energy)",19972.836
+World,OWID_WRL,1992,"Gas (TWh, substituted energy)",20063.482
+World,OWID_WRL,1993,"Gas (TWh, substituted energy)",20265.48
+World,OWID_WRL,1994,"Gas (TWh, substituted energy)",20389.613
+World,OWID_WRL,1995,"Gas (TWh, substituted energy)",21104.492
+World,OWID_WRL,1996,"Gas (TWh, substituted energy)",22159.254
+World,OWID_WRL,1997,"Gas (TWh, substituted energy)",22030.39
+World,OWID_WRL,1998,"Gas (TWh, substituted energy)",22433.998
+World,OWID_WRL,1999,"Gas (TWh, substituted energy)",23071.902
+World,OWID_WRL,2000,"Gas (TWh, substituted energy)",23994.256
+World,OWID_WRL,2001,"Gas (TWh, substituted energy)",24316.832
+World,OWID_WRL,2002,"Gas (TWh, substituted energy)",25028.285
+World,OWID_WRL,2003,"Gas (TWh, substituted energy)",25727.73
+World,OWID_WRL,2004,"Gas (TWh, substituted energy)",26734.273
+World,OWID_WRL,2005,"Gas (TWh, substituted energy)",27438.982
+World,OWID_WRL,2006,"Gas (TWh, substituted energy)",28161.389
+World,OWID_WRL,2007,"Gas (TWh, substituted energy)",29315.703
+World,OWID_WRL,2008,"Gas (TWh, substituted energy)",30026.688
+World,OWID_WRL,2009,"Gas (TWh, substituted energy)",29405.7
+World,OWID_WRL,2010,"Gas (TWh, substituted energy)",31593.82
+World,OWID_WRL,2011,"Gas (TWh, substituted energy)",32349.117
+World,OWID_WRL,2012,"Gas (TWh, substituted energy)",33203.137
+World,OWID_WRL,2013,"Gas (TWh, substituted energy)",33720.777
+World,OWID_WRL,2014,"Gas (TWh, substituted energy)",33961.7
+World,OWID_WRL,2015,"Gas (TWh, substituted energy)",34752.11
+World,OWID_WRL,2016,"Gas (TWh, substituted energy)",35229.348
+World,OWID_WRL,2017,"Gas (TWh, substituted energy)",36517.57
+World,OWID_WRL,2018,"Gas (TWh, substituted energy)",38321.438
+World,OWID_WRL,2019,"Gas (TWh, substituted energy)",39084.453
+World,OWID_WRL,2020,"Gas (TWh, substituted energy)",38714.09
+World,OWID_WRL,2021,"Gas (TWh, substituted energy)",40239.016
+World,OWID_WRL,2022,"Gas (TWh, substituted energy)",40086.875
+World,OWID_WRL,2023,"Gas (TWh, substituted energy)",40101.74
+World,OWID_WRL,1990,"Oil (TWh, substituted energy)",37608.0
+World,OWID_WRL,1991,"Oil (TWh, substituted energy)",37688.625
+World,OWID_WRL,1992,"Oil (TWh, substituted energy)",38192.87
+World,OWID_WRL,1993,"Oil (TWh, substituted energy)",38024.57
+World,OWID_WRL,1994,"Oil (TWh, substituted energy)",38852.32
+World,OWID_WRL,1995,"Oil (TWh, substituted energy)",39431.895
+World,OWID_WRL,1996,"Oil (TWh, substituted energy)",40326.613
+World,OWID_WRL,1997,"Oil (TWh, substituted energy)",41422.08
+World,OWID_WRL,1998,"Oil (TWh, substituted energy)",41583.832
+World,OWID_WRL,1999,"Oil (TWh, substituted energy)",42266.777
+World,OWID_WRL,2000,"Oil (TWh, substituted energy)",42983.43
+World,OWID_WRL,2001,"Oil (TWh, substituted energy)",43366.16
+World,OWID_WRL,2002,"Oil (TWh, substituted energy)",43650.734
+World,OWID_WRL,2003,"Oil (TWh, substituted energy)",44580.05
+World,OWID_WRL,2004,"Oil (TWh, substituted energy)",46367.14
+World,OWID_WRL,2005,"Oil (TWh, substituted energy)",46965.55
+World,OWID_WRL,2006,"Oil (TWh, substituted energy)",47468.766
+World,OWID_WRL,2007,"Oil (TWh, substituted energy)",48022.76
+World,OWID_WRL,2008,"Oil (TWh, substituted energy)",47628.992
+World,OWID_WRL,2009,"Oil (TWh, substituted energy)",46566.066
+World,OWID_WRL,2010,"Oil (TWh, substituted energy)",48058.23
+World,OWID_WRL,2011,"Oil (TWh, substituted energy)",48400.316
+World,OWID_WRL,2012,"Oil (TWh, substituted energy)",49164.34
+World,OWID_WRL,2013,"Oil (TWh, substituted energy)",49654.363
+World,OWID_WRL,2014,"Oil (TWh, substituted energy)",50011.83
+World,OWID_WRL,2015,"Oil (TWh, substituted energy)",50977.21
+World,OWID_WRL,2016,"Oil (TWh, substituted energy)",52060.85
+World,OWID_WRL,2017,"Oil (TWh, substituted energy)",52978.8
+World,OWID_WRL,2018,"Oil (TWh, substituted energy)",53521.387
+World,OWID_WRL,2019,"Oil (TWh, substituted energy)",53618.926
+World,OWID_WRL,2020,"Oil (TWh, substituted energy)",48745.684
+World,OWID_WRL,2021,"Oil (TWh, substituted energy)",51530.492
+World,OWID_WRL,2022,"Oil (TWh, substituted energy)",53226.84
+World,OWID_WRL,2023,"Oil (TWh, substituted energy)",54564.0
+World,OWID_WRL,1990,"Coal (TWh, substituted energy)",25916.205
+World,OWID_WRL,1991,"Coal (TWh, substituted energy)",25667.406
+World,OWID_WRL,1992,"Coal (TWh, substituted energy)",25567.281
+World,OWID_WRL,1993,"Coal (TWh, substituted energy)",25689.945
+World,OWID_WRL,1994,"Coal (TWh, substituted energy)",25791.27
+World,OWID_WRL,1995,"Coal (TWh, substituted energy)",25975.748
+World,OWID_WRL,1996,"Coal (TWh, substituted energy)",26592.398
+World,OWID_WRL,1997,"Coal (TWh, substituted energy)",26547.277
+World,OWID_WRL,1998,"Coal (TWh, substituted energy)",26380.13
+World,OWID_WRL,1999,"Coal (TWh, substituted energy)",26492.459
+World,OWID_WRL,2000,"Coal (TWh, substituted energy)",27441.488
+World,OWID_WRL,2001,"Coal (TWh, substituted energy)",27864.717
+World,OWID_WRL,2002,"Coal (TWh, substituted energy)",28967.592
+World,OWID_WRL,2003,"Coal (TWh, substituted energy)",31511.33
+World,OWID_WRL,2004,"Coal (TWh, substituted energy)",33689.836
+World,OWID_WRL,2005,"Coal (TWh, substituted energy)",36190.766
+World,OWID_WRL,2006,"Coal (TWh, substituted energy)",38073.164
+World,OWID_WRL,2007,"Coal (TWh, substituted energy)",40233.902
+World,OWID_WRL,2008,"Coal (TWh, substituted energy)",40786.047
+World,OWID_WRL,2009,"Coal (TWh, substituted energy)",40189.99
+World,OWID_WRL,2010,"Coal (TWh, substituted energy)",41988.312
+World,OWID_WRL,2011,"Coal (TWh, substituted energy)",43940.797
+World,OWID_WRL,2012,"Coal (TWh, substituted energy)",44060.996
+World,OWID_WRL,2013,"Coal (TWh, substituted energy)",44709.242
+World,OWID_WRL,2014,"Coal (TWh, substituted energy)",44893.17
+World,OWID_WRL,2015,"Coal (TWh, substituted energy)",43680.504
+World,OWID_WRL,2016,"Coal (TWh, substituted energy)",42736.863
+World,OWID_WRL,2017,"Coal (TWh, substituted energy)",43193.28
+World,OWID_WRL,2018,"Coal (TWh, substituted energy)",43852.793
+World,OWID_WRL,2019,"Coal (TWh, substituted energy)",43597.164
+World,OWID_WRL,2020,"Coal (TWh, substituted energy)",42296.684
+World,OWID_WRL,2021,"Coal (TWh, substituted energy)",44600.08
+World,OWID_WRL,2022,"Coal (TWh, substituted energy)",44869.12
+World,OWID_WRL,2023,"Coal (TWh, substituted energy)",45564.93
+World,OWID_WRL,1990,"Traditional biomass (TWh, substituted energy)",11111.0
+World,OWID_WRL,1991,"Traditional biomass (TWh, substituted energy)",11243.0
+World,OWID_WRL,1992,"Traditional biomass (TWh, substituted energy)",11376.0
+World,OWID_WRL,1993,"Traditional biomass (TWh, substituted energy)",11511.0
+World,OWID_WRL,1994,"Traditional biomass (TWh, substituted energy)",11647.0
+World,OWID_WRL,1995,"Traditional biomass (TWh, substituted energy)",11785.0
+World,OWID_WRL,1996,"Traditional biomass (TWh, substituted energy)",11925.0
+World,OWID_WRL,1997,"Traditional biomass (TWh, substituted energy)",12066.0
+World,OWID_WRL,1998,"Traditional biomass (TWh, substituted energy)",12209.0
+World,OWID_WRL,1999,"Traditional biomass (TWh, substituted energy)",12414.0
+World,OWID_WRL,2000,"Traditional biomass (TWh, substituted energy)",12500.0
+World,OWID_WRL,2001,"Traditional biomass (TWh, substituted energy)",12500.0
+World,OWID_WRL,2002,"Traditional biomass (TWh, substituted energy)",12470.0
+World,OWID_WRL,2003,"Traditional biomass (TWh, substituted energy)",12329.0
+World,OWID_WRL,2004,"Traditional biomass (TWh, substituted energy)",12160.0
+World,OWID_WRL,2005,"Traditional biomass (TWh, substituted energy)",12076.0
+World,OWID_WRL,2006,"Traditional biomass (TWh, substituted energy)",11993.0
+World,OWID_WRL,2007,"Traditional biomass (TWh, substituted energy)",11911.0
+World,OWID_WRL,2008,"Traditional biomass (TWh, substituted energy)",11829.0
+World,OWID_WRL,2009,"Traditional biomass (TWh, substituted energy)",11747.0
+World,OWID_WRL,2010,"Traditional biomass (TWh, substituted energy)",11667.0
+World,OWID_WRL,2011,"Traditional biomass (TWh, substituted energy)",11553.0
+World,OWID_WRL,2012,"Traditional biomass (TWh, substituted energy)",11441.0
+World,OWID_WRL,2013,"Traditional biomass (TWh, substituted energy)",11330.0
+World,OWID_WRL,2014,"Traditional biomass (TWh, substituted energy)",11220.0
+World,OWID_WRL,2015,"Traditional biomass (TWh, substituted energy)",11111.0
+World,OWID_WRL,2016,"Traditional biomass (TWh, substituted energy)",11111.0
+World,OWID_WRL,2017,"Traditional biomass (TWh, substituted energy)",11111.0
+World,OWID_WRL,2018,"Traditional biomass (TWh, substituted energy)",11111.0
+World,OWID_WRL,2019,"Traditional biomass (TWh, substituted energy)",11111.0
+World,OWID_WRL,2020,"Traditional biomass (TWh, substituted energy)",11111.0
+World,OWID_WRL,2021,"Traditional biomass (TWh, substituted energy)",11111.0
+World,OWID_WRL,2022,"Traditional biomass (TWh, substituted energy)",11111.0
+World,OWID_WRL,2023,"Traditional biomass (TWh, substituted energy)",11111.0
