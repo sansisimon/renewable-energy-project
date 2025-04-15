@@ -24,7 +24,7 @@ Este dashboard que presentamos busca contar esa historia, visualizando el estado
 
 ## Dashboard 0 introductorio:
 - contar la historia introductoria de arriba
-- explicar las unidades
+- explicar las unidades. Para copiar emojis: https://emojiterra.com/es/senal-de-advertencia/ 
 https://www.svgrepo.com/svg/492920/human-evolution
 https://slidesgo.com/es/
 - homínido: para pasar páginas
@@ -44,6 +44,7 @@ Los países que tenemos en representamos en este Dashboard son aquellos que más
 [Fuente] (https://www.ren21.net/reports/global-status-report/#)
 - China: buscar la balanca de electricidad de China: es decir, ¿consume todo lo que importa?
 
+
 ## Dashboard 3: Nos vamos a centrar en la eólica y la solar
 Y ahora vamos a centrarnos en:
 - `solar`: de los que países que no estaban en el Dashboard 2:
@@ -52,7 +53,8 @@ Y ahora vamos a centrarnos en:
 - `viento`: Parecidos a los del Dashboard 2. Turkey y Sweden llaman la atención. PEro sobre todo España es quien llama la atención
 
 ## Dashboard 4: 
-
+- Europa se ha propuesto convertirse, antes de 2050, en el primer continente climáticamente neutro.
+[Fuente] (https://www.hablamosdeeuropa.es/es/Paginas/Noticias/Pacto-Verde-Europeo-la-Comisi%C3%B3n-propone-transformar-la-econom%C3%ADa-y-la-sociedad-de-la-UE-para-alcanzar-los-objetivos-clim%C3%A1tic.aspx#:~:text=El%20Pacto%20Verde%20Europeo%2C%20presentado,neutro%20de%20aqu%C3%AD%20a%202050.)
 
 ## Next steps:
 1. En el “energy consumption word” ver correlation de la energía con:
