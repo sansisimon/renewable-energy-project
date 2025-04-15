@@ -18,6 +18,17 @@ Así, la historia se repite: tratamos de resolver problemas creados por nuestras
 
 Este dashboard que presentamos busca contar esa historia, visualizando el estado actual y la evolución de las energías renovables en el mundo. A través de datos, tendencias y comparativas entre países, podremos entender hacia dónde vamos… y quizá también, cómo seguir avanzando con más conciencia.
 
+## Dashboard EDA:
+- Boxplot de españa para ver si su producción/consumo/capacidad de renovables es superior o mayor o menor a la media.
+- lo mismo con el resto: comparativa países
+
+## Dashboard 0 introductorio:
+- contar la historia introductoria de arriba
+- explicar las unidades
+https://www.svgrepo.com/svg/492920/human-evolution
+https://slidesgo.com/es/
+- homínido: para pasar páginas
+- qué tiene que tener la energía para que sea renovable: que se produzca a un ritmo más alto del que se consuma. Por eso la madera no es renobable.
 
 ## Dashboard 1: Energy consumption world
 Vemos bajadas de consumo en 2009 y 2020. Posibles causas de la disminución (`a analizar en el futuro`):
@@ -29,14 +40,18 @@ Vemos bajadas de consumo en 2009 y 2020. Posibles causas de la disminución (`a 
 
 
 ## Dashboard 2: mapa energía renovable 10 países
-Más o menos coincide con los países más representativos de cada continente (y aquellos que más producen).
-
+Los países que tenemos en representamos en este Dashboard son aquellos que más energía producen en el mundo: 
+[Fuente] (https://www.ren21.net/reports/global-status-report/#)
+- China: buscar la balanca de electricidad de China: es decir, ¿consume todo lo que importa?
 
 ## Dashboard 3: Nos vamos a centrar en la eólica y la solar
 Y ahora vamos a centrarnos en:
-- `solar`: de los que países que no estaban en el Dashboard 2: España, Vietnam, Italy, Korea.
-OJO aquí con Cook Islands, dato llamativo en % de electricidad solar producida.
+- `solar`: de los que países que no estaban en el Dashboard 2:
+    - capacidad instalada:  España, Vietnam, Italy, Korea.
+    - % electricidad producida: aquí con Cook Islands, dato llamativo en % de electricidad solar producida, Namibia, Palestina, Yemen, El Salvador, Honduras
 - `viento`: Parecidos a los del Dashboard 2. Turkey y Sweden llaman la atención. PEro sobre todo España es quien llama la atención
+
+## Dashboard 4: 
 
 
 ## Next steps:
