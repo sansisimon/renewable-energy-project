@@ -1,7 +1,7 @@
 import pandas as pd 
 
 def pivot_df(df, original_cols, new_col, new_value):
-     '''
+    '''
     Transforms a DataFrame from wide format to long format using pd.melt.
 
     Parameters
@@ -22,11 +22,8 @@ def pivot_df(df, original_cols, new_col, new_value):
     -------
     pd.DataFrame
         Transformed DataFrame in long format, ideal for analysis or visualization.
-    
     '''
     
-    df_modified = df.melt(id_vars= original_cols, 
-                            var_name= new_col, 
-                            value_name= new_value)
+    df_modified = df.melt(id_vars= original_cols, var_name= new_col, value_name= new_value)
     
     return df_modified
