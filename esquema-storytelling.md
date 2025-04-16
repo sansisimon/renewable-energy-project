@@ -20,10 +20,12 @@ Este dashboard que presentamos busca contar esa historia, visualizando el estado
 
 ## Links de interés:
 Para copiar emojis: https://emojiterra.com/es/senal-de-advertencia/ 
-https://www.svgrepo.com/svg/492920/human-evolution
+https://www.svgrepo.com/
 https://slidesgo.com/es/
 
 ## Dashboard EDA:
+`SANDRA: darle una pensada y comentar con Marianela`
+
 - Boxplot de españa para ver si su producción/consumo/capacidad de renovables es superior o mayor o menor a la media.
 - lo mismo con el resto: comparativa países
 
@@ -68,25 +70,62 @@ Los países que tenemos en representamos en este Dashboard son aquellos que más
 
 
 
-## Dashboard 3: Nos vamos a centrar en la eólica y la solar
+## Dashboard 3: Profundizando en Eólica y Solar
 
-`SANDRA: darle una pensada`
+`Sansi: darle una pensada y comentar con Marianela`
+- **objetivo**: Mostrar cómo los países han evolucionado específicamente en solar y eólica. No sólo en generación, sino también en capacidad instalada y porcentaje de electricidad total generada por esas fuentes. Aquí el foco ya no es el mundo general, sino el zoom. 
 
-- capacidad, consumo y generación. 
-    - gráfica para wind
-    - gráfica para solar
-Y ahora vamos a centrarnos en:
-- `solar`: de los que países que no estaban en el Dashboard 2:
-    - capacidad instalada:  España, Vietnam, Italy, Korea.
-    - % electricidad producida: aquí con Cook Islands, dato llamativo en % de electricidad solar producida, Namibia, Palestina, Yemen, El Salvador, Honduras
-- `viento`: Parecidos a los del Dashboard 2. Turkey y Sweden llaman la atención. PEro sobre todo España es quien llama la atención
+- `¿por qué eólica y solar?:` Nos centramos en las dos fuentes renovables con mayor proyección (las que más se han potenciado en los últimos años). Recordatorio: solar ≠ solo paneles; también hay solar térmica. Igual para eólica: onshore vs offshore. Ver si se puede decir esto tb antes en el Dashboard 2.
+
+- `Capacidad instalada vs producción real`: Vamos a ver ejemplos fuera del top ten anterior, que nos han llamado la atención.
+Ejemplo: "España, Vietnam, Italia y Corea han apostado fuerte por solar, pero ¿esa capacidad se traduce en generación efectiva?". `Insight visual`: una gráfica de líneas o barras comparando capacidad instalada vs generación (GWh) por año.Electricity from solar (yellow) & wind (blue) (TWh)
+    - Ejemplo: "España, Vietnam, Italia y Corea han apostado fuerte por solar, pero ¿esa capacidad se traduce en generación efectiva?"
+    -  visual: una gráfica de líneas o barras comparando capacidad instalada vs generación (GWh) por año.
+
+- `% de electricidad procedente de solar/eólica`
+“Algunos países, como las Islas Cook, Namibia o Palestina, sorprenden por el alto porcentaje de electricidad solar en su mix, aunque su volumen absoluto sea bajo.”
+Storyhook: “¿Es posible ser pequeño y estar a la vanguardia renovable?”
+
+Gráfica doble comparativa
+
+- Eólica: destacar a España, Turquía, Suecia → grandes cifras absolutas.
+- Solar: destacar a países en vías de desarrollo con alto % de electricidad renovable.
 
 
 ## Dashboard 4: 
-`SANDRA: darle una pensada`
+`Sansi: darle una pensada y comentar con Marianela`
+`objetivo`: 
+Mostrar cómo los países, especialmente Europa, están avanzando hacia la neutralidad climática, y cómo el desarrollo económico está conectado con el crecimiento renovable.
+"¿Quién está liderando la carrera hacia la neutralidad climática? ¿Y cómo afecta el crecimiento económico al impulso renovable?"
+
 
 - Europa se ha propuesto convertirse, antes de 2050, en el primer continente climáticamente neutro.
 [Fuente] (https://www.hablamosdeeuropa.es/es/Paginas/Noticias/Pacto-Verde-Europeo-la-Comisi%C3%B3n-propone-transformar-la-econom%C3%ADa-y-la-sociedad-de-la-UE-para-alcanzar-los-objetivos-clim%C3%A1tic.aspx#:~:text=El%20Pacto%20Verde%20Europeo%2C%20presentado,neutro%20de%20aqu%C3%AD%20a%202050.)
+
+
+1. Introducción
+- Mención clara del Pacto Verde Europeo y su objetivo para 2050.
+- “Europa quiere ser el primer continente climáticamente neutro. ¿Está en el camino correcto?”
+
+2. Europa al frente… pero no sola
+- Visual de evolución de capacidad renovable total en Europa comparada con Asia u otros continentes.
+- Usa un timeline o gráfico de área acumulada.
+
+3. PIB vs Renovables
+- Frase clave: “Los países en desarrollo aumentan su capacidad solar y eólica a medida que crece su PIB. ¿Es la transición energética también una cuestión económica?”
+- Aquí entra el análisis estrella de correlación PIB ↔ capacidad renovable.
+- gráfica de dispersión, y si puedes, una regresión lineal o algún tipo de trendline para darle fuerza.
+
+4. Casos llamativos: Resaltar algún caso “outlier”, como:
+
+- Un país con alto PIB pero bajo % renovable.
+- Uno con bajo PIB y un alto % de electricidad solar/eólica.
+
+5. Cierre reflexivo
+- “Los datos nos muestran que no hay una única forma de transitar hacia la sostenibilidad. Mientras algunos países invierten en capacidad, otros optimizan sus recursos. ¿Quién llegará primero? ¿Quién lo hará mejor?”
+
+
+
 
 ## Next steps:
 1. En el “energy consumption word” ver correlation de la energía con:
