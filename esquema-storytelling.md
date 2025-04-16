@@ -18,17 +18,28 @@ Así, la historia se repite: tratamos de resolver problemas creados por nuestras
 
 Este dashboard que presentamos busca contar esa historia, visualizando el estado actual y la evolución de las energías renovables en el mundo. A través de datos, tendencias y comparativas entre países, podremos entender hacia dónde vamos… y quizá también, cómo seguir avanzando con más conciencia.
 
+## Links de interés:
+Para copiar emojis: https://emojiterra.com/es/senal-de-advertencia/ 
+https://www.svgrepo.com/svg/492920/human-evolution
+https://slidesgo.com/es/
+
 ## Dashboard EDA:
 - Boxplot de españa para ver si su producción/consumo/capacidad de renovables es superior o mayor o menor a la media.
 - lo mismo con el resto: comparativa países
 
 ## Dashboard 0 introductorio:
 - contar la historia introductoria de arriba
-- explicar las unidades. Para copiar emojis: https://emojiterra.com/es/senal-de-advertencia/ 
-https://www.svgrepo.com/svg/492920/human-evolution
-https://slidesgo.com/es/
+- explicar las unidades. 
 - homínido: para pasar páginas
 - qué tiene que tener la energía para que sea renovable: que se produzca a un ritmo más alto del que se consuma. Por eso la madera no es renobable.
+- **Deberes Dashboard 0 introductorio**:
+    - contenedor/texto con las medidas que tengan un hipervínculo
+        - Watio: https://www.youtube.com/watch?v=xzsHkF1Mqvg
+    - botones para el índice: redondeándolo
+    - poner enlace al REPO
+
+
+
 
 ## Dashboard 1: Energy consumption world
 Vemos bajadas de consumo en 2009 y 2020. Posibles causas de la disminución (`a analizar en el futuro`):
@@ -37,6 +48,9 @@ Vemos bajadas de consumo en 2009 y 2020. Posibles causas de la disminución (`a 
 [Fuente](https://www.miteco.gob.es/content/dam/miteco/es/energia/files-1/balances/Balances/LibrosEnergia/Energia_2009.pdf)
 - `2020`: La disminución podría estar condicionada por las diferentes medidas tomadas para contener la pandemia COVID-19. Fuente:
 [Fuente](https://www.ree.es/sites/default/files/publication/2022/05/downloadable/inf_sis_elec_ree_2020_0.pdf)
+- **Deberes Dashboard 1**:
+    - imagen periódicos que se muestren y se oculten.
+
 
 
 ## Dashboard 2: mapa energía renovable 10 países
@@ -44,15 +58,33 @@ Los países que tenemos en representamos en este Dashboard son aquellos que más
 [Fuente] (https://www.ren21.net/reports/global-status-report/#)
 - China: buscar la balanca de electricidad de China: es decir, ¿consume todo lo que importa?
 
+- aquí desarrollar cada tipo de energía: 
+    - solar: la más utilizada es la fotovoltaica, pero tb hay termosolar
+    - viento
+    - hidráulica
+    - otras: ???
+- **Deberes Dashboard 2**:
+    - En principio, tenemos el dashboard montado. No nos interesa cambiar nada, salvo que se nos ocurra algo.
+
+
 
 ## Dashboard 3: Nos vamos a centrar en la eólica y la solar
+
+`SANDRA: darle una pensada`
+
+- capacidad, consumo y generación. 
+    - gráfica para wind
+    - gráfica para solar
 Y ahora vamos a centrarnos en:
 - `solar`: de los que países que no estaban en el Dashboard 2:
     - capacidad instalada:  España, Vietnam, Italy, Korea.
     - % electricidad producida: aquí con Cook Islands, dato llamativo en % de electricidad solar producida, Namibia, Palestina, Yemen, El Salvador, Honduras
 - `viento`: Parecidos a los del Dashboard 2. Turkey y Sweden llaman la atención. PEro sobre todo España es quien llama la atención
 
+
 ## Dashboard 4: 
+`SANDRA: darle una pensada`
+
 - Europa se ha propuesto convertirse, antes de 2050, en el primer continente climáticamente neutro.
 [Fuente] (https://www.hablamosdeeuropa.es/es/Paginas/Noticias/Pacto-Verde-Europeo-la-Comisi%C3%B3n-propone-transformar-la-econom%C3%ADa-y-la-sociedad-de-la-UE-para-alcanzar-los-objetivos-clim%C3%A1tic.aspx#:~:text=El%20Pacto%20Verde%20Europeo%2C%20presentado,neutro%20de%20aqu%C3%AD%20a%202050.)
 
@@ -60,3 +92,5 @@ Y ahora vamos a centrarnos en:
 1. En el “energy consumption word” ver correlation de la energía con:
     - 2020: coronavirus
     - 2009: crisis 2008
+
+2. Añadir factores demográficos(relación de estas medidas con la superficie de cada país).
