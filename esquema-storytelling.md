@@ -33,14 +33,13 @@ https://slidesgo.com/es/
 - contar la historia introductoria de arriba
 - explicar las unidades. 
 - homínido: para pasar páginas
-- qué tiene que tener la energía para que sea renovable: que se produzca a un ritmo más alto del que se consuma. Por eso la madera no es renobable.
+- qué tiene que tener la energía para que sea renovable: que se produzca a un ritmo más alto del que se consuma. Por eso la madera no es renovable.
+
 - **Deberes Dashboard 0 introductorio**:
-    - contenedor/texto con las medidas que tengan un hipervínculo
-        - Watio: https://www.youtube.com/watch?v=xzsHkF1Mqvg
-    - botones para el índice: redondeándolo
-    - poner enlace al REPO
-
-
+    - contenedor/texto con las medidas que tengan un hipervínculo ✅
+        - Watio: https://www.youtube.com/watch?v=xzsHkF1Mqvg 
+    - botones para el índice: redondeándolo ✅
+    - poner enlace al REPO ✅
 
 
 ## Dashboard 1: Energy consumption world
@@ -51,7 +50,7 @@ Vemos bajadas de consumo en 2009 y 2020. Posibles causas de la disminución (`a 
 - `2020`: La disminución podría estar condicionada por las diferentes medidas tomadas para contener la pandemia COVID-19. Fuente:
 [Fuente](https://www.ree.es/sites/default/files/publication/2022/05/downloadable/inf_sis_elec_ree_2020_0.pdf)
 - **Deberes Dashboard 1**:
-    - imagen periódicos que se muestren y se oculten.
+    - imagen periódicos que se muestren y se oculten. ✅
 
 
 
@@ -61,10 +60,10 @@ Los países que tenemos en representamos en este Dashboard son aquellos que más
 - China: buscar la balanca de electricidad de China: es decir, ¿consume todo lo que importa?
 
 - aquí desarrollar cada tipo de energía: 
-    - solar: la más utilizada es la fotovoltaica, pero tb hay termosolar
-    - viento
-    - hidráulica
-    - otras: ???
+    - solar: Comentar que hay dos tecnologías, termosolar y fotovoltaica. La primera aprovecha el calor y la segunda la luz (resumiendo mucho)
+    - viento: el viento mueve las aspas del molino que están conectadas a un rotor. El rotor está conectado a un generador eléctrico que convierte la energía mecánica en energía eléctrica.  
+    - hidráulica: funciona de manera similar a la eólica, sólo que lo que mueve la turbina es el agua. 
+    - otras: biomasa, geotérmica, mareomotriz. 
 - **Deberes Dashboard 2**:
     - En principio, tenemos el dashboard montado. No nos interesa cambiar nada, salvo que se nos ocurra algo.
 
