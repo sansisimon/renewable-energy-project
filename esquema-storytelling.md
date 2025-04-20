@@ -80,7 +80,9 @@ Los países que tenemos en representamos en este Dashboard son aquellos que más
 - `Capacidad instalada vs producción real`: Vamos a ver ejemplos fuera del top ten anterior, que nos han llamado la atención.
 Ejemplo: "España, Vietnam, Italia y Corea han apostado fuerte por solar, pero ¿esa capacidad se traduce en generación efectiva?". `Insight visual`: una gráfica de líneas o barras comparando capacidad instalada vs generación (GWh) por año.Electricity from solar (yellow) & wind (blue) (TWh)
     - Ejemplo: "España, Vietnam, Italia y Corea han apostado fuerte por solar, pero ¿esa capacidad se traduce en generación efectiva?"
-    -  visual: una gráfica de líneas o barras comparando capacidad instalada vs generación (GWh) por año.
+    -  visual: una gráfica de líneas o barras comparando capacidad instalada vs generación (GWh) por año
+    - Islas falklands: quieren llegar al 100% de fuente renovables en 2045. Se puede poner un mapita que se muestre/oculte que indique dónde está exactamente estas islas.
+    [Fuente] (https://www.falklands.gov.fk/policy/downloads?task=download.send&id=215:fi-energy-strategy&catid=11)
 
 - `% de electricidad procedente de solar/eólica`
 “Algunos países, como las Islas Cook, Namibia o Palestina, sorprenden por el alto porcentaje de electricidad solar en su mix, aunque su volumen absoluto sea bajo.”
@@ -133,3 +135,5 @@ Mostrar cómo los países, especialmente Europa, están avanzando hacia la neutr
     - 2009: crisis 2008
 
 2. Añadir factores demográficos(relación de estas medidas con la superficie de cada país).
+
+3. ¿en qué se consume principalmente la energía renovable vs no renovable? 
