@@ -71,15 +71,15 @@ Los países que tenemos en representamos en este Dashboard son aquellos que más
 
 ## Dashboard 3: Profundizando en Eólica y Solar
 
-`Sansi: darle una pensada y comentar con Marianela`
-- **objetivo**: Mostrar cómo los países han evolucionado específicamente en solar y eólica. No sólo en generación, sino también en capacidad instalada y porcentaje de electricidad total generada por esas fuentes. Aquí el foco ya no es el mundo general, sino el zoom. 
+- **objetivo**: Mostrar cómo los países han evolucionado específicamente en solar y eólica. No sólo en generación, sino también en capacidad instalada y porcentaje de electricidad total generada por esas fuentes. Aquí el foco ya no es el mundo general, sino los países específicos sobre los que hablamos. 
 
 - `¿por qué eólica y solar?:` Nos centramos en las dos fuentes renovables con mayor proyección (las que más se han potenciado en los últimos años). Recordatorio: solar ≠ solo paneles; también hay solar térmica. Igual para eólica: onshore vs offshore. Ver si se puede decir esto tb antes en el Dashboard 2.
 
 - `Capacidad instalada vs producción real`: Vamos a ver ejemplos fuera del top ten anterior, que nos han llamado la atención.
-Ejemplo: "España, Vietnam, Italia y Corea han apostado fuerte por solar, pero ¿esa capacidad se traduce en generación efectiva?". `Insight visual`: una gráfica de líneas o barras comparando capacidad instalada vs generación (GWh) por año.Electricity from solar (yellow) & wind (blue) (TWh)
+Ejemplo: "España, Vietnam, Italia y Corea han apostado fuerte por solar, pero ¿esa capacidad se traduce en generación efectiva?". `Visualización`: una gráfica de líneas o barras comparando capacidad instalada vs generación (GWh) por año.Electricity from solar (yellow) & wind (blue) (TWh)
+
     - Ejemplo: "España, Vietnam, Italia y Corea han apostado fuerte por solar, pero ¿esa capacidad se traduce en generación efectiva?"
-    -  visual: una gráfica de líneas o barras comparando capacidad instalada vs generación (GWh) por año
+    - visual: una gráfica de líneas o barras comparando capacidad instalada vs generación (GWh) por año
     - Islas falklands: quieren llegar al 100% de fuente renovables en 2045. Se puede poner un mapita que se muestre/oculte que indique dónde está exactamente estas islas.
     [Fuente] (https://www.falklands.gov.fk/policy/downloads?task=download.send&id=215:fi-energy-strategy&catid=11)
 
@@ -94,7 +94,6 @@ Gráfica doble comparativa
 
 
 ## Dashboard 4: 
-`Sansi: darle una pensada y comentar con Marianela`
 `objetivo`: 
 Mostrar cómo los países, especialmente Europa, están avanzando hacia la neutralidad climática, y cómo el desarrollo económico está conectado con el crecimiento renovable.
 "¿Quién está liderando la carrera hacia la neutralidad climática? ¿Y cómo afecta el crecimiento económico al impulso renovable?"
