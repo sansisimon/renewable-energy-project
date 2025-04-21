@@ -8,7 +8,7 @@
 - [Next Steps](#-next-steps)
 - [Contact](#contact)
 
-## Energy & Evolution: A story through data
+## 🍃 Energy & Evolution: A story through data
 This Tableau project explores the relationship between humanity’s evolution and energy use — from fire to renewables. Energy has always been more than a resource: it’s been the fuel behind every major leap in our history.
 
 One striking example: in the late 19th century, cities like New York and London were overwhelmed by horse manure due to the rise of horse-drawn transport. The solution? The combustion engine — which, ironically, led us into a new crisis: fossil fuel dependency and climate change.
@@ -51,6 +51,31 @@ This project presents a data-driven narrative on the current state and global tr
   - [Slide templates:](https://slidesgo.com/)
 
 ---
+## 📁 Project Structure
+
+### 📂 data 
+
+- **raw** : Initial .csv files.
+
+- **usable**: Files after cleaning and transformations.
+
+### 📂 docs 
+
+- **Documentation file**: `documentation.md` 
+- **Units cheetsheet**: `prefixes.png`
+
+### 📂 misc 
+
+- Support files for demo.
+
+### 📂 src
+
+- **EDA functions**: `support_EDA.py`
+### Main files
+
+- **`01-EDA.ipynb`**
+
+---
 
 ## ✅ Next Steps
 
@@ -59,7 +84,7 @@ This project presents a data-driven narrative on the current state and global tr
 - Investigate where renewable vs. non-renewable energy is consumed.
 
 
-## Contact
+## 🚀 Contact
 ✉️ email:
  - marianela.gomez.linkedin@gmail.com
  - sandrasimonm@gmail.com
