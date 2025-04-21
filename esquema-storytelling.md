@@ -1,138 +1,184 @@
 # Esquema storytelling
 
+PRESENTACIÓN:  `M`
+- Quiénes somos: hemos hecho este proyecto, aquí tenéis nuestro enlace al Tableau y este es el link a nuestro repo.
+- vamos a hablar del lado más humano de la energía (enlazar con lo siguiente).
+
 ## Introducción – La energía, compañera de nuestra evolución
 
-Desde los primeros homínidos que aprendieron a dominar el fuego, la energía ha estado en el centro de nuestra evolución. No solo ha sido un recurso para sobrevivir: ha sido el motor del progreso. Cocinar, protegernos del frío, desarrollar herramientas… y siglos más tarde, dar luz a nuestras ciudades y alimentar nuestras industrias.
+`M`
+
+Porque la energía está con nosotros desde que los primeros homínidos que aprendieron a dominar el fuego, la energía ha estado en el centro de nuestra evolución. No solo ha sido un recurso para sobrevivir: ha sido el motor del progreso. Cocinar, protegernos del frío, desarrollar herramientas… y siglos más tarde, dar luz a nuestras ciudades y alimentar nuestras industrias.
 
 A lo largo de la historia, cada avance humano ha estado ligado a una nueva forma de generar energía.
 
 Una anécdota curiosa ilustra bien esta relación:
 A finales del siglo XIX, las grandes ciudades como Londres o Nueva York enfrentaban una crisis inesperada —el estiércol de caballo. El auge del transporte con carruajes trajo consigo toneladas de desechos diarios. Se decía que en pocos años las calles quedarían sepultadas en estiércol. ¿La solución? El automóvil, impulsado por un motor de combustión interna. Un invento pensado para resolver un problema… que, irónicamente, nos llevó a otro aún mayor: la dependencia de los combustibles fósiles y el impacto climático.
 
-Hoy nos encontramos en una encrucijada similar.
+Hoy nos encontramos en una encrucijada similar por los combustibles fósiles, cómo han contribuido al efecto invernadero y al cambio climático.
 
-La necesidad de energía sigue creciendo, pero ahora buscamos tecnologías sostenibles que nos permitan mantener el ritmo sin hipotecar el planeta. Y, como antes, cada solución trae consigo nuevos desafíos.
+
+## Links de interés para la presentación:
+https://www.svgrepo.com/
+https://slidesgo.com/es/
+
+
+## Dashboard 0 introductorio:
+- Exponer la historia introductoria expuesta al principio de este documento.
+- `S` Explicar las unidades con las que estamos trabajando. Hemos puesto un vídeo aquí por si queréis profundizar. 
+- Explicar qué tiene que tener la energía para que sea renovable: que se produzca a un ritmo más alto del que se consuma. Por eso la madera no es renovable.
+
+
+
+## Dashboard 2: Energy consumption world
+- `S` Desde el 90 que tenemos datos, ha ido aumentando el consumo de energía. Se espera que aumente en el futuro (hay proyecciones). Ejemplo claro, el hecho de que nosotras estemos aquí en el Zoom, tb está consumiendo energía.
+
+La necesidad de energía sigue creciendo, pero ahora buscamos tecnologías sostenibles que nos permitan mantener el ritmo sin hipotecar el planeta. Y, como ha contado Marianela, cada solución trae consigo nuevos desafíos.
+
 Por ejemplo, la generación de energía solar o eólica depende de factores naturales —el sol, el viento— y su disponibilidad es limitada a ciertos momentos del día. De ahí la importancia de las baterías y el almacenamiento energético, que a su vez requieren materiales y procesos que también pueden impactar el medioambiente.
 
 Así, la historia se repite: tratamos de resolver problemas creados por nuestras propias soluciones anteriores.
 
 Este dashboard que presentamos busca contar esa historia, visualizando el estado actual y la evolución de las energías renovables en el mundo. A través de datos, tendencias y comparativas entre países, podremos entender hacia dónde vamos… y quizá también, cómo seguir avanzando con más conciencia.
 
-## Links de interés para la presentación:
-Para copiar emojis: https://emojiterra.com/es/senal-de-advertencia/ 
-https://www.svgrepo.com/
-https://slidesgo.com/es/
+`Marianela`
+`Explicar la visualización`. 
+- Aunque en la actualidad, el % de energía renovable consumida sea más alto que antes, la mayoría de energías que se consumen vienen de fuentes de energía no renobables. 
 
-## Dashboard EDA:
-- Boxplot de españa para ver si su producción/consumo/capacidad de renovables es superior o mayor o menor a la media.
-- lo mismo con el resto: comparativa países
+- La energía tb te puede servir para estudiar la historia de la humanidad, por ejemplo, si nos fijamos en las bajadas de consumo en 2009 y 2020. Posibles causas de la disminución (`a analizar en el futuro`):
 
-## Dashboard 0 introductorio:
-- contar la historia introductoria de arriba
-- explicar las unidades. 
-- qué tiene que tener la energía para que sea renovable: que se produzca a un ritmo más alto del que se consuma. Por eso la madera no es renovable.
-
-- **Deberes Dashboard 0 introductorio**:
-    - contenedor/texto con las medidas que tengan un hipervínculo ✅
-        - Watio: https://www.youtube.com/watch?v=xzsHkF1Mqvg 
-    - botones para el índice: redondeándolo ✅
-    - poner enlace al REPO ✅
-
-
-## Dashboard 1: Energy consumption world
-Vemos bajadas de consumo en 2009 y 2020. Posibles causas de la disminución (`a analizar en el futuro`):
 - `2009`:  La disminución podría deberse a una menor actividad económica, como consecuencia de la crisis. Fuentes:
-[Fuente](https://elpais.com/economia/2009/12/30/actualidad/1262161977_850215.html#:~:text=El%20consumo%20de%20energ%C3%ADa%20el%C3%A9ctrica,publicado%20por%20la%20patronal%20Unesa.)
-[Fuente](https://www.miteco.gob.es/content/dam/miteco/es/energia/files-1/balances/Balances/LibrosEnergia/Energia_2009.pdf)
-- `2020`: La disminución podría estar condicionada por las diferentes medidas tomadas para contener la pandemia COVID-19. Fuente:
-[Fuente](https://www.ree.es/sites/default/files/publication/2022/05/downloadable/inf_sis_elec_ree_2020_0.pdf)
-- **Deberes Dashboard 1**:
-    - imagen periódicos que se muestren y se oculten. ✅
+    - [Fuente](https://elpais.com/economia/2009/12/30/actualidad/1262161977_850215.html#:~:text=El%20consumo%20de%20energ%C3%ADa%20el%C3%A9ctrica,publicado%20por%20la%20patronal%20Unesa.)
+
+    - [Fuente](https://www.miteco.gob.es/content/dam/miteco/es/energia/files-1/balances/Balances/LibrosEnergia/Energia_2009.pdf)
+
+- `2020`: La disminución podría estar condicionada por las diferentes medidas tomadas para contener la pandemia COVID-19.
+    
+    - [Fuente](https://www.ree.es/sites/default/files/publication/2022/05/downloadable/inf_sis_elec_ree_2020_0.pdf)
 
 
 
-## Dashboard 2: mapa energía renovable 10 países
-Los países que tenemos representados en este Dashboard son aquellos que más energía producen en el mundo: 
-[Fuente] (https://www.ren21.net/reports/global-status-report/#)
-- China: buscar la balanca de electricidad de China: es decir, ¿consume todo lo que importa?
+## Dashboard 3: mapa energía renovable 10 países
 
-- aquí desarrollar cada tipo de energía: 
+`Marianela`
+- Los países que tenemos representados en este Dashboard son aquellos que más energía renovable producen en el mundo. Nos apoyamos: (i) en la fuente de Kaggle del dataset, y (ii) se corrobora en la siguiente [Fuente] (https://www.ren21.net/reports/global-status-report/#).
+
+- empezamos la total y abrimos el mapa:
+    -  si sumas todos los tipos, China estaría en la cabeza (la que más produce). 
+
+
+- cerrar el mapa: 
+    - Si filtramos por tipo de energía: vemos que en eólica... en solar....
+    - `Explicar cada energía según vayamos avanzando con el filtro`
+    - explicar que estos filtros se puede mirar tb con el mapa.
+
+- `Ir intercalando`: `Sandra da la definición de la energía, mientras Marianela explica los tipos` 
     - solar: Comentar que hay dos tecnologías, termosolar y fotovoltaica. La primera aprovecha el calor y la segunda la luz (resumiendo mucho)
     - viento: el viento mueve las aspas del molino que están conectadas a un rotor. El rotor está conectado a un generador eléctrico que convierte la energía mecánica en energía eléctrica.  
     - hidráulica: funciona de manera similar a la eólica, sólo que lo que mueve la turbina es el agua. 
-    - otras: biomasa, geotérmica, mareomotriz. 
+    - otras: biomasa, geotérmica, mareomotriz que no profundizaremos en este proyecto porque nos vamos a centrar en eólica y solar (hilamos con el siguiente).
 
 
 
+## Dashboard 4: Profundizando en Eólica y Solar
 
-## Dashboard 3: Profundizando en Eólica y Solar
-- **objetivo**: Mostrar cómo los países han evolucionado específicamente en solar y eólica. No sólo en generación, sino también en capacidad instalada y porcentaje de electricidad total generada por esas fuentes.
+`Sandra`:
+**Objetivo**: Mostrar cómo los países han evolucionado específicamente en solar y eólica.
 
-- `¿por qué eólica y solar?:` Nos centramos en las dos fuentes renovables con mayor proyección (las que más se han potenciado en los últimos años). 
+- `¿Por qué eólica y solar?:` Nos centramos en las dos fuentes renovables con mayor proyección (las que más se han potenciado en los últimos años). 
 
-- `Factor de capacidad`: El factor de capacidad es una medida que relaciona la energía real producida con la capacidad de generación máxima. En el caso de la eólica, que haya mucho viento y en el caso de la solar, que haga mucho sol (sin que haga muchísimo calor, porque si no no lo coge bien.) Ss un indicador importante de la eficiencia y el rendimiento de la tecnología instalada. 
+- `Factor de capacidad`: El factor de capacidad es una medida que relaciona la energía real producida con la capacidad de generación máxima. En el caso de la eólica, un factor de capacidad alto es que haya mucho viento y en el caso de la solar, que haga mucho sol (sin que haga muchísimo calor, porque si no no lo coge bien). Es un indicador importante de la eficiencia y el rendimiento de la tecnología instalada. 
+
 
 - `Visualización`: gráfica de factor de capacidad de energía eólica y solar por país.
 
+`Marianela`:
+- Aquí podemos ver el factor de capacidad tanto para la eólica como para la solar: `abrir visualizaciones`. Dependerá mucho de las condiciones climatológicas y de las necesidades de cada país. Porque se puede tener mucha capacidad instalada pero poca `aprovechada`.
 
-- `Capacidad instalada vs producción real`: Vamos a ver ejemplos fuera del top ten anterior, que nos han llamado la atención. Ejemplos: 
+    - `Solar`: Resaltamos los siguientes países:
+        - Italia (analizar qué paso en 2007-- > caída de aprovechamiento, podría explorarse en más profundidad si en next steps). Mejoró a partir de 2008 y se mantiene, para estar en la vanguardia de energía solar. En eólica están bastante altos y se han mantenido.
+        [Fuente](https://news.soliclima.com/noticias/energia-solar/la-energia-solar-en-italia) 
+        - Corea del Sur (`analizar 2000 y 2001`). Tienen datos muy fuertes de solar. Han apostado fuerte por solar. En Viento tb están muy bien.
+        - China: la mostramos para demostrar que España aprovecha lo mismo o incluso más que China (en lo solar). España está incluso más cerca que Corea del Sur.
+        - España 
 
-    - `Solar Capacity`: España, Italia (analizar qué paso en 2007, ver si en next steps) y Corea del Sur (analizar 2000 y 2001) han apostado fuerte por solar, pero ¿esa capacidad se traduce en generación efectiva de energía?".
-        - Italia: Se puso las pilas a partir de 2008, para estar en la vanguardia de energía solar.
-        [Fuente](https://news.soliclima.com/noticias/energia-solar/la-energia-solar-en-italia)  
-
-    - `Wind capacity`: Curioso, España está en el top World!! hay que decirlo.En los años 80 ya había instalada en España. Primer parque eólico en marcha en 1984. Enseñar con China.
-    El orden de 2021: China, USA, Alemania, Germany, India, Spain, UK, Brazil.
+    - `Wind `:  Resaltamos:
+        - España está en el top World. España ya había instalada energía eólica. Primer parque eólico en marcha en 1984.  
+        - Nota: el orden de 2021 de capacidad de viento: China, USA, Alemania, Germany, India, Spain, UK, Brazil.
 
 
-## Dashboard 4: Curiosidades:
+## Dashboards 4 y 5: Curiosidades:
 
-1. `Wind & Solar`:
+`Sandra`: Leer el título que es muy gráfico.
 
-- `Wind (% electricity)`: (factores climatológicos y geográficos) Falkland Islands, Denmark, Lithuania, Urugay, Ireland, Spain, China, USA
-    - `Islas falklands`: quieren llegar al 100% de fuente renovables en 2045. Se puede poner un mapita que se muestre/oculte que indique dónde está exactamente estas islas.
-    [Fuente] (https://www.falklands.gov.fk/policy/downloads?task=download.send&id=215:fi-energy-strategy&catid=11)
-    - `Dinamarca`: quieren llegar al 100% de fuente renovables en 2030 y tener el 60% de la energía generada ques sea eólica.
-    [Fuente] (https://www.construction21.org/articles/h/denmark.html#:~:text=By%202030%2C%20Denmark%20plans%20to,energy%20generated%20by%20wind%20power.&text=While%20wind%20power%20plays%20an,solar%20energy%20and%20geothermal%20energy.)
+1. `Wind & Solar`: países con más porcentaje de electricidad producido proveniente de eólica o solar.
 
-- `Solar (% electricity)`: Islas Cook, Namibia, Palestine, Yemen, Spain, USA, China.
-Algunos países, como las Islas Cook, Namibia o Palestina, sorprenden por el alto porcentaje de electricidad solar en su mix, aunque su volumen absoluto sea bajo.”
 Storyhook: “¿Es posible ser pequeño y estar a la vanguardia renovable?”
-- `Namibia`:  Namibia tiene un enorme potencial para la producción de energía solar, ya que es el país es el más seco del continente africano, con 300 días de sol al año. El país tiene un promedio de 10 horas diarias y 300 días de sol al año. Los datos del último censo indican que aproximadamente el 12% de los namibios utilizan soluciones fuera de la red, principalmente sistemas solares, para satisfacer sus necesidades de electricidad
+
+- `Solar (% electricity)`: Países interesantes: Islas Cook, Namibia, Palestine, Yemen, El Salvador, Spain, USA, China.
+
+Algunos países, como las Islas Cook (Polinesia dependiente de Nueva Zelanda, son 15 islas, pueden tener más facilidades), Namibia o Palestina, sorprenden por el alto porcentaje de electricidad solar en su mix energético, aunque su volumen total de electricidad producida sea bajo.
+
+- `Namibia`:  Namibia tiene un enorme potencial para la producción de energía solar, ya que es el país más seco del continente africano, con 300 días de sol al año. El país tiene un promedio de 10 horas diarias y 300 días de sol al año. Los datos del último censo indican que aproximadamente el 12% de los namibios utilizan soluciones fuera de la red, principalmente sistemas solares, para satisfacer sus necesidades de electricidad.
     [Fuente] (https://www.icex.es/es/quienes-somos/sala-de-prensa/sala-de-prensa/detalle.namibia-planta-solar.news056202003)
     [Fuente] (https://www.namibian.com.na/solar-energy-usage-lagging-in-sun-rich-namibia/#:~:text=Despite%20being%20ranked%20as%20having,300%20days%20of%20sunshine%20annually.)
 
 
-2. `PIB vs Renovables`:
-- Frase clave: “Los países en desarrollo aumentan su capacidad solar y eólica a medida que crece su PIB. ¿Es la transición energética también una cuestión económica?”
-- Mencionar que utilizamos PIB per capita y no pib global.
 
-- Orden: 
-    - menos PIB: Yemen
-    - más PIB: Mónaco, Licheinstein, Luxemburgo
-    - España: por encima del percentil 75
-    - China entre el percentil 75 y 50%.
+- `Wind (% electricity)`: Países interesantes: Falkland Islands, Denmark, Lithuania, Urugay, Ireland, Spain, China, USA. Los países curiosos probablemente sean tan potentes debido a factores climatológicos y geográficos.
+
+    - `Islas Malvinas (Falkland)`: quieren llegar al 100% de fuente renovables en 2045. Fueron colonia inglesa y ahora forman parte de Argentina. Se encuentran al sur, muy cerca de Patagonia, al lado del Tierra del Fuego (Argentina).
+    [Fuente] (https://www.falklands.gov.fk/policy/downloads?task=download.send&id=215:fi-energy-strategy&catid=11)
+
+    - `Dinamarca`: quieren llegar al 100% de fuente renovables en 2030 y tener el 60% de la energía generada ques sea eólica. Ahora mismo están en un 50%, parece que pueden conseguirlo si siguen así.
+    [Fuente] (https://www.construction21.org/articles/h/denmark.html#:~:text=By%202030%2C%20Denmark%20plans%20to,energy%20generated%20by%20wind%20power.&text=While%20wind%20power%20plays%20an,solar%20energy%20and%20geothermal%20energy.)
+
+
+
+2. `PIB vs Renovables`:
+
+`Marianela`:
+- Explicar medidas y termómetro:
+    - Mencionar que utilizamos PIB per capita y no pib global. Hacer hincapié en que el total de lo producido (la riqueza) por un país se divide entre el total de habitantes. Por eso China tiene un PIB per cápita tan pequeño (por debajo de España).
     
-- Casos llamativos: 
-- Por lo general, según aumenta PIB, se produce más electricidad a partir de energía eólica y solar. Casos muy claros:
+    - Hemos puesto los percentiles como referencia: claramente la riqueza no está bien repartida. La riqueza se concentra en el percentil 75. 
+
+    - Orden termómetro: Los países que hemos puesto como referencia
+        - menos PIB per capita: Yemen
+        - más PIB per capita: Mónaco, Licheinstein, Luxemburgo
+        - España: por encima del percentil 75
+        - China entre el percentil 75 y 50%. Lo hemos seleccionado para tener una referencia porque tiene muchos habitantes.
+    
+    - Visualización: Explicar la gráfica de correlación. Dejar claro que el año no tiene que corresponder con el mayor PIB, porque estamos viendo una correlación entre PIB y % energía producida.
+
+- `¿qué queremos contar con este Dashboard?` ¿Es la transición energética también una cuestión económica?”
+
+Casos llamativos: 
+`Marianela`:
+- Por lo general, según aumenta PIB, aumenta también la producción con fuente de energía eólica y solar. Casos muy claros:
     - India, China, USA, Germany, Italia (generalmente)
-    - aunque haya aumentado, aumentar la electricidad producida a partir de estas fuentes no tiene efectos relevantes a nivel absoluto porque el porcentaje sobre el total de electricidad producida es muy poca, como podéis ver == CASO de USA.
-- Un país con alto PIB pero bajo % eólica y solar:
+    - China y USA : aunque haya aumentado el % de renovables, realmente no tiene efectos relevantes a nivel absoluto, porque el porcentaje sobre el total de electricidad producida es muy poca, como podéis ver == CASO de USA VS ESPAÑA
+
+`Sandra`:
+- Ejemplo claro de `país con alto PIB pero bajo % eólica y solar`:
     - USA: Estos tres países tiene bajo porcentaje
-    
-    - Suecia: tiene bajo de solar pero alto de viento
-    - Australia: tiene las dos al rededor del 10%.
-    - España: vemos que está super bien, porque tiene en solar parecido a australia y en wind un 20%.
-- Uno con bajo PIB y un alto % de electricidad solar/eólica:
-    - Marruecos: está dentro del percentil 10%. Tiene un 12% de viento y un 4% solar.
+
+- Uno con `bajo PIB y un alto % de electricidad solar/eólica`:
+    - Marruecos: está dentro del percentil 10%. Tiene un 12% de viento y un 4% solar (probablemente solar se podría aprovechar más).
+
+`Marianela`:
+- España: vemos que está super bien, porque tiene en solar en torno al 10% y en viento sobrepasa los 20% (muy por encima del resto).
 
 - No siguen la tendencia: 
-    - Grecia: independiendemente de su PIB, ha seguido invirtiendo
+    - Grecia: independiendemente de su PIB, ha seguido invirtiendo. Su pib ha bajado mucho en los últimos años. 
 
 
-Cierre reflexivo
-- “Los datos nos muestran que no hay una única forma de transitar hacia la sostenibilidad. Mientras algunos países invierten en capacidad, otros optimizan sus recursos. ¿cómo podemos hacerlo? Aquellos países que quieren hacer transición lo están consiguiendo porque hay voluntad política para ello.
+`Cierre reflexivo`
+`Sandra`:
+- Los datos nos muestran que aunque el PIB ayuda mucho no es el único factor o el factor clave de esta transición que estamos estudiando.
 
+`Marianela`:
+- Los últimos años la tecnología fotocoltaica se ha hecho mucho más efiicente y accesible y en cq caso parece que sí es determinante es que tiene que haber un compromiso firme de los gobernantes para que esta transición se produzca.
 
 
 
@@ -144,3 +190,5 @@ Cierre reflexivo
 2. Añadir factores demográficos(relación de estas medidas con la superficie de cada país).
 
 3. ¿en qué se consume principalmente la energía renovable vs no renovable? 
+
+4. Estudiar la caída de Italia en el aprovechamiento de energía en 2007
