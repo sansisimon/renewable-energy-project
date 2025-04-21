@@ -1,12 +1,12 @@
 # Esquema storytelling
 
-PRESENTACIÓN:  `M`
+PRESENTACIÓN:  `Marianela`
 - Quiénes somos: hemos hecho este proyecto, aquí tenéis nuestro enlace al Tableau y este es el link a nuestro repo.
 - vamos a hablar del lado más humano de la energía (enlazar con lo siguiente).
 
 ## Introducción – La energía, compañera de nuestra evolución
 
-`M`
+`Marianela`
 
 Porque la energía está con nosotros desde que los primeros homínidos que aprendieron a dominar el fuego, la energía ha estado en el centro de nuestra evolución. No solo ha sido un recurso para sobrevivir: ha sido el motor del progreso. Cocinar, protegernos del frío, desarrollar herramientas… y siglos más tarde, dar luz a nuestras ciudades y alimentar nuestras industrias.
 
@@ -25,13 +25,13 @@ https://slidesgo.com/es/
 
 ## Dashboard 0 introductorio:
 - Exponer la historia introductoria expuesta al principio de este documento.
-- `S` Explicar las unidades con las que estamos trabajando. Hemos puesto un vídeo aquí por si queréis profundizar. 
+- `Sandra` Explicar las unidades con las que estamos trabajando. Hemos puesto un vídeo aquí por si queréis profundizar. 
 - Explicar qué tiene que tener la energía para que sea renovable: que se produzca a un ritmo más alto del que se consuma. Por eso la madera no es renovable.
 
 
 
 ## Dashboard 2: Energy consumption world
-- `S` Desde el 90 que tenemos datos, ha ido aumentando el consumo de energía. Se espera que aumente en el futuro (hay proyecciones). Ejemplo claro, el hecho de que nosotras estemos aquí en el Zoom, tb está consumiendo energía.
+- `Sandra` Desde el 90 que tenemos datos, ha ido aumentando el consumo de energía. Se espera que aumente en el futuro (hay proyecciones). Ejemplo claro, el hecho de que nosotras estemos aquí en el Zoom, tb está consumiendo energía.
 
 La necesidad de energía sigue creciendo, pero ahora buscamos tecnologías sostenibles que nos permitan mantener el ritmo sin hipotecar el planeta. Y, como ha contado Marianela, cada solución trae consigo nuevos desafíos.
 
