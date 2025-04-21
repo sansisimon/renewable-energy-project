@@ -77,31 +77,61 @@ Los países que tenemos representados en este Dashboard son aquellos que más en
 
 - `Capacidad instalada vs producción real`: Vamos a ver ejemplos fuera del top ten anterior, que nos han llamado la atención. Ejemplos: 
 
-    - `Solar Capacity`: España, Vietnam, Italia y Corea del Sur han apostado fuerte por solar, pero ¿esa capacidad se traduce en generación efectiva de energía?". Comprobar en las dos gráficas si la producción real va ade la mano. Orden 2021: China, Uk, Japón, Alemania, India, Italia, Australia, Corea del Sur, Vietnam, Francia.
+    - `Solar Capacity`: España, Italia (analizar qué paso en 2007, ver si en next steps) y Corea del Sur (analizar 2000 y 2001) han apostado fuerte por solar, pero ¿esa capacidad se traduce en generación efectiva de energía?".
+        - Italia: Se puso las pilas a partir de 2008, para estar en la vanguardia de energía solar.
+        [Fuente](https://news.soliclima.com/noticias/energia-solar/la-energia-solar-en-italia)  
 
-    - `Wind capacity`: Curioso, España está en el top World!!! hay que decirlo. El orden de 2021: China, USA, Alemania, ermany, India, Spain, UK, Brazil.
+    - `Wind capacity`: Curioso, España está en el top World!! hay que decirlo.En los años 80 ya había instalada en España. Primer parque eólico en marcha en 1984. Enseñar con China.
+    El orden de 2021: China, USA, Alemania, Germany, India, Spain, UK, Brazil.
 
 
 ## Dashboard 4: Curiosidades:
 
-- `Wind (% electricity)`: Falkland Islands	, Denmark, Lithuania, Uurugay, Ireland, Spain, China, USA
-    - Islas falklands: quieren llegar al 100% de fuente renovables en 2045. Se puede poner un mapita que se muestre/oculte que indique dónde está exactamente estas islas.
+1. `Wind & Solar`:
+
+- `Wind (% electricity)`: (factores climatológicos y geográficos) Falkland Islands, Denmark, Lithuania, Urugay, Ireland, Spain, China, USA
+    - `Islas falklands`: quieren llegar al 100% de fuente renovables en 2045. Se puede poner un mapita que se muestre/oculte que indique dónde está exactamente estas islas.
     [Fuente] (https://www.falklands.gov.fk/policy/downloads?task=download.send&id=215:fi-energy-strategy&catid=11)
+    - `Dinamarca`: quieren llegar al 100% de fuente renovables en 2030 y tener el 60% de la energía generada ques sea eólica.
+    [Fuente] (https://www.construction21.org/articles/h/denmark.html#:~:text=By%202030%2C%20Denmark%20plans%20to,energy%20generated%20by%20wind%20power.&text=While%20wind%20power%20plays%20an,solar%20energy%20and%20geothermal%20energy.)
 
 - `Solar (% electricity)`: Islas Cook, Namibia, Palestine, Yemen, Spain, USA, China.
 Algunos países, como las Islas Cook, Namibia o Palestina, sorprenden por el alto porcentaje de electricidad solar en su mix, aunque su volumen absoluto sea bajo.”
 Storyhook: “¿Es posible ser pequeño y estar a la vanguardia renovable?”
+- `Namibia`:  Namibia tiene un enorme potencial para la producción de energía solar, ya que es el país es el más seco del continente africano, con 300 días de sol al año. El país tiene un promedio de 10 horas diarias y 300 días de sol al año. Los datos del último censo indican que aproximadamente el 12% de los namibios utilizan soluciones fuera de la red, principalmente sistemas solares, para satisfacer sus necesidades de electricidad
+    [Fuente] (https://www.icex.es/es/quienes-somos/sala-de-prensa/sala-de-prensa/detalle.namibia-planta-solar.news056202003)
+    [Fuente] (https://www.namibian.com.na/solar-energy-usage-lagging-in-sun-rich-namibia/#:~:text=Despite%20being%20ranked%20as%20having,300%20days%20of%20sunshine%20annually.)
 
 
-PIB vs Renovables
+2. `PIB vs Renovables`:
 - Frase clave: “Los países en desarrollo aumentan su capacidad solar y eólica a medida que crece su PIB. ¿Es la transición energética también una cuestión económica?”
-- Casos llamativos: Resaltar algún caso “outlier”, como:
-- Un país con alto PIB pero bajo % renovable.
-- Uno con bajo PIB y un alto % de electricidad solar/eólica.
+- Mencionar que utilizamos PIB per capita y no pib global.
+
+- Orden: 
+    - menos PIB: Yemen
+    - más PIB: Mónaco, Licheinstein, Luxemburgo
+    - España: por encima del percentil 75
+    - China entre el percentil 75 y 50%.
+    
+- Casos llamativos: 
+- Por lo general, según aumenta PIB, se produce más electricidad a partir de energía eólica y solar. Casos muy claros:
+    - India, China, USA, Germany, Italia (generalmente)
+    - aunque haya aumentado, aumentar la electricidad producida a partir de estas fuentes no tiene efectos relevantes a nivel absoluto porque el porcentaje sobre el total de electricidad producida es muy poca, como podéis ver == CASO de USA.
+- Un país con alto PIB pero bajo % eólica y solar:
+    - USA: Estos tres países tiene bajo porcentaje
+    
+    - Suecia: tiene bajo de solar pero alto de viento
+    - Australia: tiene las dos al rededor del 10%.
+    - España: vemos que está super bien, porque tiene en solar parecido a australia y en wind un 20%.
+- Uno con bajo PIB y un alto % de electricidad solar/eólica:
+    - Marruecos: está dentro del percentil 10%. Tiene un 12% de viento y un 4% solar.
+
+- No siguen la tendencia: 
+    - Grecia: independiendemente de su PIB, ha seguido invirtiendo
+
 
 Cierre reflexivo
-- “Los datos nos muestran que no hay una única forma de transitar hacia la sostenibilidad. Mientras algunos países invierten en capacidad, otros optimizan sus recursos. ¿Quién llegará primero? ¿Quién lo hará mejor?”
--  Depende mucho de la política.
+- “Los datos nos muestran que no hay una única forma de transitar hacia la sostenibilidad. Mientras algunos países invierten en capacidad, otros optimizan sus recursos. ¿cómo podemos hacerlo? Aquellos países que quieren hacer transición lo están consiguiendo porque hay voluntad política para ello.
 
 
 
