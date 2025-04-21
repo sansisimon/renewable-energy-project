@@ -70,9 +70,10 @@ Los países que tenemos representados en este Dashboard son aquellos que más en
 
 - `¿por qué eólica y solar?:` Nos centramos en las dos fuentes renovables con mayor proyección (las que más se han potenciado en los últimos años). 
 
-- `Visualización`: una gráfica de líneas o barras comparando capacidad instalada vs generación (GWh) por año. Electricity from solar (yellow) & wind (blue) (TWh). Filtrar por países.
+- `Factor de capacidad`: El factor de capacidad es una medida que relaciona la energía real producida con la capacidad de generación máxima. En el caso de la eólica, que haya mucho viento y en el caso de la solar, que haga mucho sol (sin que haga muchísimo calor, porque si no no lo coge bien.) Ss un indicador importante de la eficiencia y el rendimiento de la tecnología instalada. 
 
-- `Factor de capacidad`: El factor de capacidad es una medida que relaciona la energía real producida con la capacidad de generación. Se calcula dividiendo la energía real producida por la capacidad máxima y multiplicando por 100. Este valor indica la proporción de tiempo que los aerogeneradores (en el caso de energía eólica) funcionan a su capacidad máxima y es un indicador importante de la eficiencia y el rendimiento del parque eólico. 
+- `Visualización`: gráfica de factor de capacidad de energía eólica y solar por país.
+
 
 - `Capacidad instalada vs producción real`: Vamos a ver ejemplos fuera del top ten anterior, que nos han llamado la atención. Ejemplos: 
 
