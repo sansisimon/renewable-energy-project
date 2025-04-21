@@ -1,12 +1,12 @@
 # Renewable energy project:
 
 ## 🔗 Table of Contents
-- [Energy & Evolution: A story through data](#Energy & Evolution: A story through data)
-- [Key questions we explore](#Key questions we explore)
-- [Insights] (#Insights)
-- [Useful Links] (#Useful Links)
-- [Next Steps](#Next Steps)
-- [Contact] (#Contact)
+- [Energy & Evolution: A story through data](#energy--evolution-a-story-through-data)
+- [Key questions we explore](#-key-questions-we-explore)
+- [Insights](#-insights)
+- [Useful Links](#-useful-links)
+- [Next Steps](#-next-steps)
+- [Contact](#contact)
 
 ## Energy & Evolution: A story through data
 This Tableau project explores the relationship between humanity’s evolution and energy use — from fire to renewables. Energy has always been more than a resource: it’s been the fuel behind every major leap in our history.
@@ -44,11 +44,11 @@ This project presents a data-driven narrative on the current state and global tr
 
 ## 🔗 Useful Links
 
-- 📊 Tableau Dashboard: *[Insert link here]*
-- 📁 Project Repo: https://github.com/sansisimon/renewable-energy-project 
-- 📚 Visual assets:
-  - SVGs: https://www.svgrepo.com/
-  - Slide templates: https://slidesgo.com/
+- 📊 [Tableau Dashboard](https://public.tableau.com/app/profile/marianela.g.mez/viz/renewable-energy_16_04/GDP-energy)
+- 📁 [Project Repo](https://github.com/sansisimon/renewable-energy-project)
+- 📚 **Visual assets**:
+  - [SVGs:](https://www.svgrepo.com/)
+  - [Slide templates:](https://slidesgo.com/)
 
 ---
 
