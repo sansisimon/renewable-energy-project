@@ -1,12 +1,10 @@
 # Esquema storytelling
 
-PRESENTACIÓN:  `Marianela`
+PRESENTACIÓN: 
 - Quiénes somos: hemos hecho este proyecto, aquí tenéis nuestro enlace al Tableau y este es el link a nuestro repo.
 - vamos a hablar del lado más humano de la energía (enlazar con lo siguiente).
 
 ## Introducción – La energía, compañera de nuestra evolución
-
-`Marianela`
 
 Porque la energía está con nosotros desde que los primeros homínidos que aprendieron a dominar el fuego, la energía ha estado en el centro de nuestra evolución. No solo ha sido un recurso para sobrevivir: ha sido el motor del progreso. Cocinar, protegernos del frío, desarrollar herramientas… y siglos más tarde, dar luz a nuestras ciudades y alimentar nuestras industrias.
 
@@ -25,23 +23,21 @@ https://slidesgo.com/es/
 
 ## Dashboard 0 introductorio:
 - Exponer la historia introductoria expuesta al principio de este documento.
-- `Sandra` Explicar las unidades con las que estamos trabajando. Hemos puesto un vídeo aquí por si queréis profundizar. 
-- Explicar qué tiene que tener la energía para que sea renovable: que se produzca a un ritmo más alto del que se consuma. Por eso la madera no es renovable.
+- Para que podáis seguir mejor nuestra exposición, nos gustaría comentaros las unidades con las que estamos trabajando. Hemos puesto un vídeo aquí por si queréis profundizar. 
+- GWp: potencia máxima teórica que una fuente de energía puede generar bajo condiciones ideales.
+- Por último, os preguntaréis, qué hace a la energía renovable: que ésta se produzca a un ritmo más alto del que se consume. Podríamos por ejemlo pensar que la madera es renovable, pero se necesita muhca madera para quemar y eerar energá Por eso la madera no es renovable.
 
 
 
 ## Dashboard 2: Energy consumption world
-- `Sandra` Desde el 90 que tenemos datos, ha ido aumentando el consumo de energía. Se espera que aumente en el futuro (hay proyecciones). Ejemplo claro, el hecho de que nosotras estemos aquí en el Zoom, tb está consumiendo energía.
+-  Desde que tenemos datos en los 90, ha ido aumentando el consumo de energía y hay proyección de que se siga aumentando en el futuro. Ejemplo claro, antes no podíamos estudiar a distancia de esta manera y el hecho de que nosotras estemos aquí en el Zoom, está consumiendo una energía que antes no era planteable.
 
-La necesidad de energía sigue creciendo, pero ahora buscamos tecnologías sostenibles que nos permitan mantener el ritmo sin hipotecar el planeta. Y, como ha contado Marianela, cada solución trae consigo nuevos desafíos.
+La necesidad de energía sigue creciendo, pero ahora buscamos tecnologías sostenibles que nos permitan mantener este ritmo de consumo sin hipotecar el planeta. Y como comentado anteriormente, cada solución trae consigo nuevos desafíos.
 
-Por ejemplo, la generación de energía solar o eólica depende de factores naturales —el sol, el viento— y su disponibilidad es limitada a ciertos momentos del día. De ahí la importancia de las baterías y el almacenamiento energético, que a su vez requieren materiales y procesos que también pueden impactar el medioambiente.
+Por ejemplo, la generación de energía solar o eólica depende de factores naturales —el sol, el viento— y su disponibilidad es limitada a ciertos momentos del día. De ahí la importancia de las baterías para el almacenamiento energético, que a su vez requieren materiales y procesos que también pueden impactar el medioambiente.
 
-Así, la historia se repite: tratamos de resolver problemas creados por nuestras propias soluciones anteriores.
+Este dashboard busca contar esa historia, visualizando el estado actual y la evolución de las energías renovables en el mundo.
 
-Este dashboard que presentamos busca contar esa historia, visualizando el estado actual y la evolución de las energías renovables en el mundo. A través de datos, tendencias y comparativas entre países, podremos entender hacia dónde vamos… y quizá también, cómo seguir avanzando con más conciencia.
-
-`Marianela`
 `Explicar la visualización`. 
 - Aunque en la actualidad, el % de energía renovable consumida sea más alto que antes, la mayoría de energías que se consumen vienen de fuentes de energía no renobables. 
 
@@ -60,7 +56,6 @@ Este dashboard que presentamos busca contar esa historia, visualizando el estado
 
 ## Dashboard 3: mapa energía renovable 10 países
 
-`Marianela`
 - Los países que tenemos representados en este Dashboard son aquellos que más energía renovable producen en el mundo. Nos apoyamos: (i) en la fuente de Kaggle del dataset, y (ii) se corrobora en la siguiente [Fuente] (https://www.ren21.net/reports/global-status-report/#).
 
 - empezamos la total y abrimos el mapa:
@@ -72,28 +67,28 @@ Este dashboard que presentamos busca contar esa historia, visualizando el estado
     - `Explicar cada energía según vayamos avanzando con el filtro`
     - explicar que estos filtros se puede mirar tb con el mapa.
 
-- `Ir intercalando`: `Sandra da la definición de la energía, mientras Marianela explica los tipos` 
+- `tipos de energía`: 
+    - hidráulica: energía generada al aprovechar el movimiento del agua. Este movimiento hace girar una turbina que, a su vez, energía eléctrica a través de un generador.
     - solar: Comentar que hay dos tecnologías, termosolar y fotovoltaica. La primera aprovecha el calor y la segunda la luz (resumiendo mucho)
-    - viento: el viento mueve las aspas del molino que están conectadas a un rotor. El rotor está conectado a un generador eléctrico que convierte la energía mecánica en energía eléctrica.  
-    - hidráulica: funciona de manera similar a la eólica, sólo que lo que mueve la turbina es el agua. 
+    - viento: funciona de manera similar a la hidráulica, el viento mueve las aspas del molino que están conectadas a un rotor. El rotor está conectado a un generador eléctrico que convierte la energía mecánica en energía eléctrica.  
     - otras: biomasa, geotérmica, mareomotriz que no profundizaremos en este proyecto porque nos vamos a centrar en eólica y solar (hilamos con el siguiente).
 
 
 
 ## Dashboard 4: Profundizando en Eólica y Solar
 
-`Sandra`:
-**Objetivo**: Mostrar cómo los países han evolucionado específicamente en solar y eólica.
+- `¿Por qué nos hemos centrado eólica y solar?:` porque son las dos fuentes renovables con mayor proyección (las que más se han potenciado en los últimos años). 
 
-- `¿Por qué eólica y solar?:` Nos centramos en las dos fuentes renovables con mayor proyección (las que más se han potenciado en los últimos años). 
+**Objetivo**: En este Dashboard os vamos a mostrar cómo los países han evolucionado en estas dos energías.
 
-- `Factor de capacidad`: El factor de capacidad es una medida que relaciona la energía real producida con la capacidad de generación máxima. En el caso de la eólica, un factor de capacidad alto es que haya mucho viento y en el caso de la solar, que haga mucho sol (sin que haga muchísimo calor, porque si no no lo coge bien). Es un indicador importante de la eficiencia y el rendimiento de la tecnología instalada. 
+- `Factor de capacidad`: El factor de capacidad es una medida que relaciona la energía real producida con la capacidad de generación máxima. Este factor es un indicador importante de la eficiencia y el rendimiento de la tecnología instalada.
 
 
 - `Visualización`: gráfica de factor de capacidad de energía eólica y solar por país.
 
-`Marianela`:
 - Aquí podemos ver el factor de capacidad tanto para la eólica como para la solar: `abrir visualizaciones`. Dependerá mucho de las condiciones climatológicas y de las necesidades de cada país. Porque se puede tener mucha capacidad instalada pero poca `aprovechada`.
+
+--> sólo China y España
 
     - `Solar`: Resaltamos los siguientes países:
         - Italia (analizar qué paso en 2007-- > caída de aprovechamiento, podría explorarse en más profundidad si en next steps). Mejoró a partir de 2008 y se mantiene, para estar en la vanguardia de energía solar. En eólica están bastante altos y se han mantenido.
@@ -109,9 +104,7 @@ Este dashboard que presentamos busca contar esa historia, visualizando el estado
 
 ## Dashboards 4 y 5: Curiosidades:
 
-`Sandra`: Leer el título que es muy gráfico.
-
-1. `Wind & Solar`: países con más porcentaje de electricidad producido proveniente de eólica o solar.
+1. `Wind & Solar`: Líderes en las sombras. Países con el mayor porcentaje de electricidad producido proveniente de eólica o solar
 
 Storyhook: “¿Es posible ser pequeño y estar a la vanguardia renovable?”
 
@@ -119,7 +112,7 @@ Storyhook: “¿Es posible ser pequeño y estar a la vanguardia renovable?”
 
 Algunos países, como las Islas Cook (Polinesia dependiente de Nueva Zelanda, son 15 islas, pueden tener más facilidades), Namibia o Palestina, sorprenden por el alto porcentaje de electricidad solar en su mix energético, aunque su volumen total de electricidad producida sea bajo.
 
-- `Namibia`:  Namibia tiene un enorme potencial para la producción de energía solar, ya que es el país más seco del continente africano, con 300 días de sol al año. El país tiene un promedio de 10 horas diarias y 300 días de sol al año. Los datos del último censo indican que aproximadamente el 12% de los namibios utilizan soluciones fuera de la red, principalmente sistemas solares, para satisfacer sus necesidades de electricidad.
+- `Namibia`:  Namibia tiene un enorme potencial para la producción de energía solar, ya que es el país más seco del continente africano, con un promedio de 10 horas diarias y 300 días de sol al año. Los datos del último censo indican que aproximadamente el 12% de los namibios utilizan soluciones fuera de la red, principalmente sistemas solares, para satisfacer sus necesidades de electricidad.
     [Fuente] (https://www.icex.es/es/quienes-somos/sala-de-prensa/sala-de-prensa/detalle.namibia-planta-solar.news056202003)
     [Fuente] (https://www.namibian.com.na/solar-energy-usage-lagging-in-sun-rich-namibia/#:~:text=Despite%20being%20ranked%20as%20having,300%20days%20of%20sunshine%20annually.)
 
@@ -137,7 +130,6 @@ Algunos países, como las Islas Cook (Polinesia dependiente de Nueva Zelanda, so
 
 2. `PIB vs Renovables`:
 
-`Marianela`:
 - Explicar medidas y termómetro:
     - Mencionar que utilizamos PIB per capita y no pib global. Hacer hincapié en que el total de lo producido (la riqueza) por un país se divide entre el total de habitantes. Por eso China tiene un PIB per cápita tan pequeño (por debajo de España).
     
@@ -154,19 +146,16 @@ Algunos países, como las Islas Cook (Polinesia dependiente de Nueva Zelanda, so
 - `¿qué queremos contar con este Dashboard?` ¿Es la transición energética también una cuestión económica?”
 
 Casos llamativos: 
-`Marianela`:
 - Por lo general, según aumenta PIB, aumenta también la producción con fuente de energía eólica y solar. Casos muy claros:
     - India, China, USA, Germany, Italia (generalmente)
     - China y USA : aunque haya aumentado el % de renovables, realmente no tiene efectos relevantes a nivel absoluto, porque el porcentaje sobre el total de electricidad producida es muy poca, como podéis ver == CASO de USA VS ESPAÑA
 
-`Sandra`:
-- Ejemplo claro de `país con alto PIB pero bajo % eólica y solar`:
-    - USA: Estos tres países tiene bajo porcentaje
+- Ejemplo claro de `país con alto PIB pero bajo % de mix energético en eólica y solar`:
+    - USA
 
 - Uno con `bajo PIB y un alto % de electricidad solar/eólica`:
     - Marruecos: está dentro del percentil 10%. Tiene un 12% de viento y un 4% solar (probablemente solar se podría aprovechar más).
 
-`Marianela`:
 - España: vemos que está super bien, porque tiene en solar en torno al 10% y en viento sobrepasa los 20% (muy por encima del resto).
 
 - No siguen la tendencia: 
@@ -174,11 +163,9 @@ Casos llamativos:
 
 
 `Cierre reflexivo`
-`Sandra`:
-- Los datos nos muestran que aunque el PIB ayuda mucho no es el único factor o el factor clave de esta transición que estamos estudiando.
+- Los datos nos muestran que aunque el PIB ayuda mucho no es el único factor o no es el factor clave de esta transición que estamos estudiando.
 
-`Marianela`:
-- Los últimos años la tecnología fotocoltaica se ha hecho mucho más efiicente y accesible y en cq caso parece que sí es determinante es que tiene que haber un compromiso firme de los gobernantes para que esta transición se produzca.
+- Los últimos años la tecnología fotocoltaica se ha hecho mucho más efiicente y accesible y en cualquier caso parece que sí es determinante es que tiene que haber un compromiso firme de los gobernantes para que esta transición se produzca.
 
 
 
